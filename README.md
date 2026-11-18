@@ -154,3 +154,14 @@ Retail-Inventory-Stockout-Risk-Analysis/
 ├── Visualizations/
 │
 └── README.md
+
+## Project Visualizations
+
+### 1. Stockout Risk Distribution
+![Stockout Risk Distribution](Visualizations/Stockout_Risk_Distribution.png)
+
+### 2. Category-wise Stockout Risk
+![Category-wise Stockout Risk](Visualizations/Category_Wise_Stockout_Risk.png)
+
+### 3. Stock Quantity by Category
+![Stock Quantity by Category](Visualizations/Stock_Quantity_by_Category.png)
