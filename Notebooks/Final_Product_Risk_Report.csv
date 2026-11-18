@@ -1,0 +1,991 @@
+Product_ID,Product_Name,Category,Stock_Quantity,Sales_Volume,Reorder_Level,Stock_Status,Stockout_Risk
+00-357-2313,Avocado Oil,Oils & Fats,10,24,86,Reorder Required,High Risk
+95-449-1286,Egg (Chicken),Dairy,10,100,17,Reorder Required,High Risk
+42-495-7698,Sushi Rice,Grains & Pulses,10,29,11,Reorder Required,High Risk
+51-459-5630,Sour Cream,Dairy,11,84,30,Reorder Required,High Risk
+20-054-3716,Chocolate Biscuit,Bakery,11,88,6,Sufficient Stock,High Risk
+07-074-1196,Plum,Fruits & Vegetables,11,40,56,Reorder Required,High Risk
+84-269-9130,Long Grain Rice,Grains & Pulses,11,48,10,Sufficient Stock,High Risk
+88-951-9038,Black Coffee,Beverages,11,89,72,Reorder Required,High Risk
+06-996-3221,Evaporated Milk,Dairy,11,48,9,Sufficient Stock,High Risk
+22-266-9291,Sardines,Seafood,11,69,17,Reorder Required,High Risk
+83-727-0814,Basmati Rice,Grains & Pulses,11,29,87,Reorder Required,High Risk
+02-575-1980,Plum,Fruits & Vegetables,11,99,58,Reorder Required,High Risk
+88-807-8431,Haddock,Seafood,11,86,87,Reorder Required,High Risk
+92-362-3567,Tomato,Fruits & Vegetables,11,93,10,Sufficient Stock,High Risk
+58-946-5152,Bread Flour,Grains & Pulses,11,77,77,Reorder Required,High Risk
+80-020-8041,Black Rice,Grains & Pulses,11,49,58,Reorder Required,High Risk
+71-594-6552,Long Grain Rice,Grains & Pulses,12,95,59,Reorder Required,High Risk
+34-086-3222,Lemon,Fruits & Vegetables,12,66,7,Sufficient Stock,High Risk
+65-464-5070,Heavy Cream,Dairy,12,20,60,Reorder Required,High Risk
+73-561-2867,Sourdough Bread,Bakery,12,75,86,Reorder Required,High Risk
+56-635-6764,Sourdough Bread,Bakery,12,75,59,Reorder Required,High Risk
+38-924-3007,Peas,Fruits & Vegetables,12,46,28,Reorder Required,High Risk
+21-013-3508,Cabbage,Fruits & Vegetables,12,25,95,Reorder Required,High Risk
+03-441-4252,Yogurt,Dairy,12,22,83,Reorder Required,High Risk
+50-329-3145,Milk,Dairy,12,31,54,Reorder Required,High Risk
+79-884-8810,Cucumber,Fruits & Vegetables,12,45,93,Reorder Required,High Risk
+74-234-0628,Almond Flour,Grains & Pulses,12,56,56,Reorder Required,High Risk
+98-652-9569,Butter Biscuit,Bakery,12,72,7,Sufficient Stock,High Risk
+66-993-4234,Cucumber,Fruits & Vegetables,13,44,60,Reorder Required,High Risk
+62-509-0666,Almond Flour,Grains & Pulses,13,24,88,Reorder Required,High Risk
+95-356-1566,Grapes,Fruits & Vegetables,13,42,61,Reorder Required,High Risk
+40-003-7322,White Sugar,Grains & Pulses,13,38,32,Reorder Required,High Risk
+20-405-4865,Milk,Dairy,13,46,39,Reorder Required,High Risk
+19-854-3663,Watermelon,Fruits & Vegetables,13,100,88,Reorder Required,High Risk
+48-427-0551,Arabica Coffee,Beverages,13,67,55,Reorder Required,High Risk
+05-334-2923,Bread Flour,Grains & Pulses,14,37,74,Reorder Required,High Risk
+70-149-6756,Heavy Cream,Dairy,14,28,99,Reorder Required,High Risk
+63-822-5278,Pomegranate,Fruits & Vegetables,14,86,66,Reorder Required,High Risk
+00-215-7434,Egg (Goose),Dairy,14,59,63,Reorder Required,High Risk
+22-319-1377,White Sugar,Grains & Pulses,14,39,16,Reorder Required,High Risk
+41-735-9837,Robusta Coffee,Beverages,14,32,77,Reorder Required,High Risk
+26-134-9069,Whipped Cream,Dairy,14,90,87,Reorder Required,High Risk
+72-810-9753,Sesame Oil,Oils & Fats,14,51,84,Reorder Required,High Risk
+05-899-1428,Avocado Oil,Oils & Fats,14,65,75,Reorder Required,High Risk
+94-355-3070,Tilapia,Seafood,14,64,52,Reorder Required,High Risk
+27-269-5260,Pineapple,Fruits & Vegetables,14,74,81,Reorder Required,High Risk
+37-610-1999,Halibut,Seafood,14,71,67,Reorder Required,High Risk
+43-851-9440,Lime,Fruits & Vegetables,14,100,75,Reorder Required,High Risk
+51-572-5497,Orange,Fruits & Vegetables,15,56,44,Reorder Required,High Risk
+06-706-6490,Green Tea,Beverages,15,60,66,Reorder Required,High Risk
+11-745-3025,Peach,Fruits & Vegetables,15,37,27,Reorder Required,High Risk
+47-663-5703,Basmati Rice,Grains & Pulses,15,68,49,Reorder Required,High Risk
+06-858-5680,Sesame Oil,Oils & Fats,15,49,34,Reorder Required,High Risk
+62-816-8794,Rice Flour,Grains & Pulses,15,90,76,Reorder Required,High Risk
+76-070-1411,Evaporated Milk,Dairy,15,71,75,Reorder Required,High Risk
+31-211-5803,Oatmeal Biscuit,Bakery,16,50,9,Sufficient Stock,High Risk
+79-400-6216,Mozzarella Cheese,Dairy,16,56,56,Reorder Required,High Risk
+47-802-5023,Cod,Seafood,16,81,20,Reorder Required,High Risk
+03-043-9933,Strawberries,Fruits & Vegetables,16,50,23,Reorder Required,High Risk
+21-718-6746,Coconut,Fruits & Vegetables,16,21,53,Reorder Required,High Risk
+73-010-8323,Tuna,Seafood,16,35,34,Reorder Required,High Risk
+53-667-4109,Onion,Fruits & Vegetables,16,22,75,Reorder Required,High Risk
+99-561-4871,Haddock,Seafood,17,100,38,Reorder Required,High Risk
+30-591-7275,Brown Rice,Grains & Pulses,17,45,88,Reorder Required,High Risk
+12-439-8428,Eggplant,Fruits & Vegetables,17,49,3,Sufficient Stock,High Risk
+88-183-5781,Whole Wheat Bread,Bakery,17,93,63,Reorder Required,High Risk
+12-046-2988,Corn Oil,Oils & Fats,17,23,63,Reorder Required,High Risk
+10-626-8536,Coconut Sugar,Grains & Pulses,17,76,85,Reorder Required,High Risk
+46-622-3434,Jasmine Rice,Grains & Pulses,17,58,19,Reorder Required,High Risk
+47-221-2470,Pomegranate,Fruits & Vegetables,17,37,45,Reorder Required,High Risk
+61-680-9496,Apple,Fruits & Vegetables,17,36,14,Sufficient Stock,High Risk
+38-732-7667,Pineapple,Fruits & Vegetables,18,42,52,Reorder Required,High Risk
+92-791-0606,Short Grain Rice,Grains & Pulses,18,61,62,Reorder Required,High Risk
+83-716-2177,Halibut,Seafood,18,57,46,Reorder Required,High Risk
+12-798-9401,Cream,Dairy,18,78,14,Sufficient Stock,High Risk
+68-636-4774,Carrot,Fruits & Vegetables,18,44,50,Reorder Required,High Risk
+37-606-0510,Milk,Dairy,18,73,64,Reorder Required,High Risk
+93-015-0811,Pineapple,Fruits & Vegetables,18,88,7,Sufficient Stock,High Risk
+48-289-0604,Vegetable Oil,Oils & Fats,18,25,72,Reorder Required,High Risk
+86-273-9377,White Rice,Grains & Pulses,18,64,86,Reorder Required,High Risk
+49-377-9731,Lime,Fruits & Vegetables,18,54,8,Sufficient Stock,High Risk
+92-152-5820,Black Tea,Beverages,18,65,36,Reorder Required,High Risk
+89-624-7462,Asparagus,Fruits & Vegetables,18,58,3,Sufficient Stock,High Risk
+45-050-4720,Black Rice,Grains & Pulses,18,85,78,Reorder Required,High Risk
+76-340-4432,Cucumber,Fruits & Vegetables,19,31,36,Reorder Required,High Risk
+14-305-9690,Sushi Rice,Grains & Pulses,19,58,17,Sufficient Stock,High Risk
+28-840-6096,Pomegranate,Fruits & Vegetables,19,59,65,Reorder Required,High Risk
+34-928-2775,Coconut,Fruits & Vegetables,19,96,47,Reorder Required,High Risk
+28-824-9017,Trout,Seafood,19,96,94,Reorder Required,High Risk
+67-512-9754,Egg (Turkey),Dairy,19,66,100,Reorder Required,High Risk
+37-666-3902,Cauliflower,Fruits & Vegetables,19,70,73,Reorder Required,High Risk
+92-551-8504,Raw Sugar,Grains & Pulses,19,39,81,Reorder Required,High Risk
+95-262-6208,Black Tea,Beverages,19,72,78,Reorder Required,High Risk
+50-329-3360,Wild Rice,Grains & Pulses,19,62,77,Reorder Required,High Risk
+93-014-4256,Green Beans,Fruits & Vegetables,19,51,92,Reorder Required,High Risk
+42-134-9798,Canola Oil,Oils & Fats,19,33,80,Reorder Required,High Risk
+57-167-0669,Haddock,Seafood,19,29,99,Reorder Required,High Risk
+28-044-4102,Papaya,Fruits & Vegetables,19,91,28,Reorder Required,High Risk
+39-232-5341,Arborio Rice,Grains & Pulses,20,50,34,Reorder Required,High Risk
+75-080-4909,Corn Oil,Oils & Fats,20,86,55,Reorder Required,High Risk
+15-907-3681,Plum,Fruits & Vegetables,20,61,42,Reorder Required,High Risk
+29-896-7926,White Rice,Grains & Pulses,20,62,20,Reorder Required,High Risk
+78-689-8958,White Tea,Beverages,20,73,43,Reorder Required,High Risk
+04-277-5245,Coconut Sugar,Grains & Pulses,20,71,51,Reorder Required,High Risk
+45-172-7012,Papaya,Fruits & Vegetables,20,35,91,Reorder Required,High Risk
+98-858-6323,Swiss Cheese,Dairy,20,50,17,Sufficient Stock,High Risk
+39-192-3521,Herbal Tea,Beverages,20,46,9,Sufficient Stock,High Risk
+35-031-1497,Green Coffee,Beverages,20,38,68,Reorder Required,High Risk
+88-304-2855,Pineapple,Fruits & Vegetables,20,80,51,Reorder Required,High Risk
+07-846-4804,Jasmine Rice,Grains & Pulses,20,78,25,Reorder Required,High Risk
+37-064-7275,Robusta Coffee,Beverages,20,72,42,Reorder Required,High Risk
+07-679-1199,Onion,Fruits & Vegetables,20,51,65,Reorder Required,High Risk
+47-548-6500,Onion,Fruits & Vegetables,20,23,93,Reorder Required,High Risk
+20-022-3173,Bread Flour,Grains & Pulses,21,38,63,Reorder Required,High Risk
+51-462-0747,Lime,Fruits & Vegetables,21,43,30,Reorder Required,High Risk
+19-672-8982,Butter,Dairy,21,64,87,Reorder Required,High Risk
+60-456-8169,Cheddar Cheese,Dairy,21,69,28,Reorder Required,High Risk
+53-146-9979,Powdered Sugar,Grains & Pulses,21,37,15,Sufficient Stock,High Risk
+76-584-4790,Peanut Oil,Oils & Fats,21,49,52,Reorder Required,High Risk
+58-229-1358,Cream,Dairy,21,87,24,Reorder Required,High Risk
+87-903-3486,Peanut Oil,Oils & Fats,21,79,25,Reorder Required,High Risk
+29-205-1132,Sushi Rice,Grains & Pulses,22,32,72,Reorder Required,High Risk
+98-235-2711,Asparagus,Fruits & Vegetables,22,98,40,Reorder Required,High Risk
+84-629-1532,Arabica Coffee,Beverages,22,30,89,Reorder Required,High Risk
+15-679-3935,Grapes,Fruits & Vegetables,22,34,69,Reorder Required,High Risk
+99-420-3592,Butter Biscuit,Bakery,22,47,24,Reorder Required,High Risk
+62-100-2245,Sourdough Bread,Bakery,22,62,60,Reorder Required,High Risk
+87-013-6488,Sushi Rice,Grains & Pulses,22,64,10,Sufficient Stock,High Risk
+81-573-0943,Egg (Chicken),Dairy,22,33,58,Reorder Required,High Risk
+02-034-6209,Sour Cream,Dairy,22,45,43,Reorder Required,High Risk
+74-181-4135,Egg (Chicken),Dairy,22,88,19,Sufficient Stock,High Risk
+77-959-1018,Lettuce,Fruits & Vegetables,22,62,22,Reorder Required,High Risk
+71-015-9181,Pomegranate,Fruits & Vegetables,22,41,35,Reorder Required,High Risk
+29-377-7040,Short Grain Rice,Grains & Pulses,22,68,77,Reorder Required,High Risk
+63-936-0145,Plum,Fruits & Vegetables,22,70,56,Reorder Required,High Risk
+61-827-4098,Cod,Seafood,23,63,42,Reorder Required,High Risk
+32-933-0329,Blueberries,Fruits & Vegetables,23,40,38,Reorder Required,High Risk
+61-607-7622,Egg (Duck),Dairy,23,84,38,Reorder Required,High Risk
+59-857-6577,Evaporated Milk,Dairy,23,63,100,Reorder Required,High Risk
+28-505-8317,Watermelon,Fruits & Vegetables,23,92,85,Reorder Required,High Risk
+65-368-2479,Egg (Turkey),Dairy,23,81,21,Sufficient Stock,High Risk
+16-632-1308,Arabica Coffee,Beverages,23,31,13,Sufficient Stock,High Risk
+27-474-0056,Spinach,Fruits & Vegetables,23,95,6,Sufficient Stock,High Risk
+03-940-0630,Sunflower Oil,Oils & Fats,23,91,43,Reorder Required,High Risk
+92-837-8839,Vegetable Oil,Oils & Fats,23,63,71,Reorder Required,High Risk
+14-115-8371,Chocolate Biscuit,Bakery,23,97,76,Reorder Required,High Risk
+39-913-2999,Evaporated Milk,Dairy,23,68,99,Reorder Required,High Risk
+11-316-8405,Mango,Fruits & Vegetables,24,39,55,Reorder Required,High Risk
+06-690-2335,Jasmine Rice,Grains & Pulses,24,35,15,Sufficient Stock,High Risk
+11-922-3342,Black Coffee,Beverages,24,80,77,Reorder Required,High Risk
+36-296-9609,Sunflower Oil,Oils & Fats,24,91,35,Reorder Required,High Risk
+72-989-2512,Mushrooms,Fruits & Vegetables,24,85,21,Sufficient Stock,High Risk
+51-000-8113,Green Tea,Beverages,24,49,27,Reorder Required,High Risk
+10-617-7581,Peanut Oil,Oils & Fats,24,98,14,Sufficient Stock,High Risk
+75-927-9108,Cabbage,Fruits & Vegetables,24,55,32,Reorder Required,High Risk
+39-810-2042,Rice Flour,Grains & Pulses,24,98,2,Sufficient Stock,High Risk
+83-400-9746,Mozzarella Cheese,Dairy,24,58,1,Sufficient Stock,High Risk
+14-331-3739,Avocado Oil,Oils & Fats,24,99,89,Reorder Required,High Risk
+87-791-5803,Tuna,Seafood,25,36,44,Reorder Required,High Risk
+94-020-6982,Tuna,Seafood,25,31,75,Reorder Required,High Risk
+55-803-3964,Bread Flour,Grains & Pulses,25,31,60,Reorder Required,High Risk
+13-144-2169,Eggplant,Fruits & Vegetables,25,57,62,Reorder Required,High Risk
+91-417-0366,Grapes,Fruits & Vegetables,25,41,74,Reorder Required,High Risk
+24-143-4957,Canola Oil,Oils & Fats,25,72,97,Reorder Required,High Risk
+75-094-1179,Rye Bread,Bakery,26,47,79,Reorder Required,High Risk
+68-761-6907,Zucchini,Fruits & Vegetables,26,57,18,Sufficient Stock,High Risk
+42-887-6557,Long Grain Rice,Grains & Pulses,26,76,82,Reorder Required,High Risk
+02-275-6061,Potato,Fruits & Vegetables,26,64,16,Sufficient Stock,High Risk
+04-758-0410,Wild Rice,Grains & Pulses,26,40,21,Sufficient Stock,High Risk
+65-644-1394,Pear,Fruits & Vegetables,26,92,95,Reorder Required,High Risk
+43-910-2342,Plum,Fruits & Vegetables,26,47,69,Reorder Required,High Risk
+33-440-2588,Bell Pepper,Fruits & Vegetables,26,73,12,Sufficient Stock,High Risk
+77-777-4536,Basmati Rice,Grains & Pulses,26,54,67,Reorder Required,High Risk
+08-573-9997,Pomegranate,Fruits & Vegetables,26,82,1,Sufficient Stock,High Risk
+87-391-9658,Corn Oil,Oils & Fats,26,45,100,Reorder Required,High Risk
+60-198-7050,Green Tea,Beverages,26,92,59,Reorder Required,High Risk
+68-732-5919,Jasmine Rice,Grains & Pulses,26,75,83,Reorder Required,High Risk
+80-039-1261,Strawberries,Fruits & Vegetables,26,94,97,Reorder Required,High Risk
+27-495-1912,Potato,Fruits & Vegetables,26,84,63,Reorder Required,High Risk
+54-281-3746,Green Beans,Fruits & Vegetables,26,36,70,Reorder Required,High Risk
+55-936-2406,Bread Flour,Grains & Pulses,27,66,93,Reorder Required,High Risk
+13-202-4809,Garlic,Fruits & Vegetables,27,91,22,Sufficient Stock,High Risk
+76-325-9093,Sesame Oil,Oils & Fats,27,29,92,Reorder Required,High Risk
+15-045-8444,Green Coffee,Beverages,27,88,12,Sufficient Stock,High Risk
+40-683-0283,White Sugar,Grains & Pulses,27,57,64,Reorder Required,High Risk
+11-766-8738,Watermelon,Fruits & Vegetables,27,70,64,Reorder Required,High Risk
+24-228-6840,Herbal Tea,Beverages,27,34,1,Sufficient Stock,High Risk
+33-335-9140,Olive Oil,Oils & Fats,28,38,17,Sufficient Stock,High Risk
+12-239-9399,Potato,Fruits & Vegetables,28,30,40,Reorder Required,High Risk
+97-710-2449,Rye Bread,Bakery,28,31,94,Reorder Required,High Risk
+85-561-4694,Kiwi,Fruits & Vegetables,28,70,27,Sufficient Stock,High Risk
+84-272-0790,Blueberries,Fruits & Vegetables,28,48,86,Reorder Required,High Risk
+83-553-9523,Buttermilk,Dairy,28,76,90,Reorder Required,High Risk
+90-865-9150,Powdered Sugar,Grains & Pulses,28,82,24,Sufficient Stock,High Risk
+32-270-1385,Greek Yogurt,Fruits & Vegetables,28,48,38,Reorder Required,High Risk
+69-895-3397,Cucumber,Fruits & Vegetables,28,33,5,Sufficient Stock,High Risk
+44-368-7112,Corn Oil,Oils & Fats,28,32,32,Reorder Required,High Risk
+26-010-9519,Trout,Seafood,29,85,72,Reorder Required,High Risk
+70-871-4536,Swiss Cheese,Dairy,29,59,4,Sufficient Stock,High Risk
+55-522-8242,Whipped Cream,Dairy,29,60,36,Reorder Required,High Risk
+74-587-2065,Pear,Fruits & Vegetables,29,31,20,Sufficient Stock,High Risk
+46-931-6897,Cream,Dairy,29,64,32,Reorder Required,High Risk
+15-762-1058,Lime,Fruits & Vegetables,29,81,83,Reorder Required,High Risk
+40-021-2400,Zucchini,Fruits & Vegetables,29,53,18,Sufficient Stock,High Risk
+76-623-7844,Egg (Quail),Dairy,29,50,33,Reorder Required,High Risk
+91-290-9062,Digestive Biscuit,Bakery,29,80,2,Sufficient Stock,High Risk
+40-630-1431,Cherry,Fruits & Vegetables,29,74,66,Reorder Required,High Risk
+99-894-4351,White Sugar,Grains & Pulses,29,58,54,Reorder Required,High Risk
+06-955-3428,Black Rice,Grains & Pulses,30,31,38,Reorder Required,High Risk
+53-080-8252,Sourdough Bread,Bakery,30,32,85,Reorder Required,High Risk
+74-943-9034,White Bread,Bakery,30,97,91,Reorder Required,High Risk
+37-246-0018,Broccoli,Fruits & Vegetables,30,61,59,Reorder Required,High Risk
+09-622-7119,Haddock,Seafood,30,99,81,Reorder Required,High Risk
+83-966-3280,Mackerel,Seafood,30,80,29,Sufficient Stock,High Risk
+46-255-3073,Tilapia,Seafood,30,48,42,Reorder Required,High Risk
+51-934-9117,Sardines,Seafood,30,56,55,Reorder Required,High Risk
+11-053-0107,Cherry,Fruits & Vegetables,30,42,25,Sufficient Stock,High Risk
+65-854-9364,Black Rice,Grains & Pulses,30,61,34,Reorder Required,High Risk
+00-366-9496,Grapes,Fruits & Vegetables,30,63,66,Reorder Required,High Risk
+40-795-0753,Raw Sugar,Grains & Pulses,31,46,43,Reorder Required,High Risk
+88-069-5486,Cod,Seafood,31,41,87,Reorder Required,High Risk
+71-085-4290,Cucumber,Fruits & Vegetables,31,91,98,Reorder Required,High Risk
+48-957-6116,Eggplant,Fruits & Vegetables,31,46,44,Reorder Required,High Risk
+87-675-1506,Strawberries,Fruits & Vegetables,31,46,89,Reorder Required,High Risk
+72-066-4597,Broccoli,Fruits & Vegetables,31,69,54,Reorder Required,High Risk
+22-895-6595,Rice Flour,Grains & Pulses,31,38,32,Reorder Required,High Risk
+17-002-4721,Green Beans,Fruits & Vegetables,31,71,55,Reorder Required,High Risk
+92-995-8689,Cheddar Cheese,Dairy,31,63,65,Reorder Required,High Risk
+24-975-4231,Green Beans,Fruits & Vegetables,31,55,61,Reorder Required,High Risk
+36-383-3677,Corn Oil,Oils & Fats,32,52,38,Reorder Required,High Risk
+99-048-8310,Tomato,Fruits & Vegetables,32,80,49,Reorder Required,High Risk
+20-031-0532,Mango,Fruits & Vegetables,32,84,63,Reorder Required,High Risk
+15-797-4824,Coconut,Fruits & Vegetables,32,38,27,Sufficient Stock,High Risk
+82-231-4245,Wild Rice,Grains & Pulses,32,69,91,Reorder Required,High Risk
+67-625-9704,Sardines,Seafood,33,98,18,Sufficient Stock,High Risk
+35-299-0889,Coconut Oil,Oils & Fats,33,60,78,Reorder Required,High Risk
+80-227-6886,Garlic,Fruits & Vegetables,33,46,4,Sufficient Stock,High Risk
+15-562-3712,Cauliflower,Fruits & Vegetables,33,90,89,Reorder Required,High Risk
+00-641-8691,Black Coffee,Beverages,33,96,22,Sufficient Stock,High Risk
+79-350-5841,Jasmine Rice,Grains & Pulses,33,93,44,Reorder Required,High Risk
+04-542-3863,Bread Flour,Grains & Pulses,34,49,46,Reorder Required,High Risk
+30-429-2162,Black Rice,Grains & Pulses,34,90,96,Reorder Required,High Risk
+58-182-6781,Oatmeal Biscuit,Bakery,34,77,55,Reorder Required,High Risk
+08-940-8578,Onion,Fruits & Vegetables,34,90,29,Sufficient Stock,High Risk
+27-881-1177,Green Tea,Beverages,34,97,47,Reorder Required,High Risk
+22-849-2551,Mushrooms,Fruits & Vegetables,34,58,1,Sufficient Stock,High Risk
+34-291-4939,Digestive Biscuit,Bakery,34,78,49,Reorder Required,High Risk
+07-389-5740,Egg (Quail),Dairy,34,96,94,Reorder Required,High Risk
+95-640-0293,Arborio Rice,Grains & Pulses,34,42,32,Sufficient Stock,High Risk
+82-931-7126,Asparagus,Fruits & Vegetables,34,41,95,Reorder Required,High Risk
+88-746-9468,Onion,Fruits & Vegetables,35,76,92,Reorder Required,High Risk
+67-027-7269,Mushrooms,Fruits & Vegetables,35,88,19,Sufficient Stock,High Risk
+62-795-7801,Palm Oil,Oils & Fats,35,62,41,Reorder Required,High Risk
+27-757-4489,Egg (Goose),Dairy,35,95,78,Reorder Required,High Risk
+08-519-5579,Broccoli,Fruits & Vegetables,35,90,4,Sufficient Stock,High Risk
+13-409-9040,White Tea,Beverages,35,53,20,Sufficient Stock,High Risk
+83-568-3475,Halibut,Seafood,35,74,72,Reorder Required,High Risk
+85-806-8672,Black Tea,Beverages,35,39,88,Reorder Required,High Risk
+86-330-0214,Arabica Coffee,Beverages,36,91,64,Reorder Required,High Risk
+09-101-1740,Sushi Rice,Grains & Pulses,36,73,81,Reorder Required,High Risk
+17-274-6898,Whole Wheat Bread,Bakery,36,67,53,Reorder Required,High Risk
+82-811-7988,Olive Oil,Oils & Fats,36,74,3,Sufficient Stock,High Risk
+40-913-9772,Egg (Chicken),Dairy,36,68,30,Sufficient Stock,High Risk
+57-437-1828,Plum,Fruits & Vegetables,37,62,30,Sufficient Stock,High Risk
+49-891-4927,Cottage Cheese,Dairy,37,68,5,Sufficient Stock,High Risk
+57-562-2358,Black Coffee,Beverages,37,94,94,Reorder Required,High Risk
+48-461-3742,Kiwi,Fruits & Vegetables,37,47,8,Sufficient Stock,High Risk
+04-293-6969,Peach,Fruits & Vegetables,37,93,38,Reorder Required,High Risk
+97-300-7511,Egg (Duck),Dairy,37,90,53,Reorder Required,High Risk
+37-567-3218,Almond Flour,Grains & Pulses,37,38,47,Reorder Required,High Risk
+98-499-2220,Parmesan Cheese,Dairy,37,39,3,Sufficient Stock,High Risk
+70-815-4015,Butter Biscuit,Bakery,38,67,93,Reorder Required,High Risk
+51-583-6029,Digestive Biscuit,Bakery,38,72,43,Reorder Required,High Risk
+65-527-9488,Grapes,Fruits & Vegetables,38,59,72,Reorder Required,High Risk
+82-948-2298,Kiwi,Fruits & Vegetables,38,53,91,Reorder Required,High Risk
+11-891-8213,Peanut Oil,Oils & Fats,38,41,62,Reorder Required,High Risk
+58-005-5343,Cucumber,Fruits & Vegetables,38,89,94,Reorder Required,High Risk
+40-205-8252,Multigrain Bread,Bakery,38,45,37,Sufficient Stock,High Risk
+09-618-2842,White Sugar,Grains & Pulses,38,52,82,Reorder Required,High Risk
+91-848-0606,Onion,Fruits & Vegetables,39,60,22,Sufficient Stock,High Risk
+44-408-7594,Eggplant,Fruits & Vegetables,39,51,21,Sufficient Stock,High Risk
+93-813-2419,Digestive Biscuit,Bakery,39,98,16,Sufficient Stock,High Risk
+17-253-5688,Greek Yogurt,Dairy,39,47,55,Reorder Required,High Risk
+60-311-5701,Sesame Oil,Oils & Fats,39,54,78,Reorder Required,High Risk
+06-068-6793,Buttermilk,Dairy,39,46,80,Reorder Required,High Risk
+93-772-3085,Banana,Fruits & Vegetables,39,58,19,Sufficient Stock,High Risk
+84-151-2114,Brown Rice,Grains & Pulses,39,77,57,Reorder Required,High Risk
+44-480-9446,Sunflower Oil,Oils & Fats,39,84,13,Sufficient Stock,High Risk
+77-937-1108,White Sugar,Grains & Pulses,39,73,83,Reorder Required,High Risk
+89-922-4773,Whole Wheat Flour,Grains & Pulses,39,92,53,Reorder Required,High Risk
+07-219-8017,Palm Oil,Oils & Fats,40,71,2,Sufficient Stock,High Risk
+08-703-1382,Peach,Fruits & Vegetables,40,70,53,Reorder Required,High Risk
+94-029-2717,Broccoli,Fruits & Vegetables,40,86,8,Sufficient Stock,High Risk
+06-503-5891,Egg (Goose),Dairy,40,76,22,Sufficient Stock,High Risk
+01-026-2772,Blueberries,Fruits & Vegetables,40,76,61,Reorder Required,High Risk
+65-867-4029,Peach,Fruits & Vegetables,40,92,83,Reorder Required,High Risk
+48-242-8445,Plum,Fruits & Vegetables,40,45,3,Sufficient Stock,High Risk
+53-805-9523,Sourdough Bread,Bakery,40,54,30,Sufficient Stock,High Risk
+70-854-6891,Sourdough Bread,Bakery,41,42,84,Reorder Required,High Risk
+77-312-6317,Spinach,Fruits & Vegetables,41,59,29,Sufficient Stock,High Risk
+53-446-8243,Orange,Fruits & Vegetables,41,88,94,Reorder Required,High Risk
+19-214-5762,Pear,Fruits & Vegetables,41,57,52,Reorder Required,High Risk
+85-806-0613,Oatmeal Biscuit,Bakery,41,50,21,Sufficient Stock,High Risk
+42-674-3917,Whole Wheat Flour,Grains & Pulses,41,50,76,Reorder Required,High Risk
+70-542-4269,Gouda Cheese,Dairy,41,86,22,Sufficient Stock,High Risk
+06-340-6856,Wild Rice,Grains & Pulses,41,93,56,Reorder Required,High Risk
+23-395-3157,Vegetable Oil,Oils & Fats,41,55,66,Reorder Required,High Risk
+08-396-2704,White Sugar,Grains & Pulses,42,80,12,Sufficient Stock,High Risk
+15-905-7750,Apricot,Fruits & Vegetables,42,86,61,Reorder Required,High Risk
+85-212-2729,Egg (Turkey),Dairy,42,61,94,Reorder Required,High Risk
+21-650-9319,White Bread,Bakery,42,67,88,Reorder Required,High Risk
+38-390-2115,Potato,Fruits & Vegetables,42,43,69,Reorder Required,High Risk
+80-988-4653,Zucchini,Fruits & Vegetables,43,66,66,Reorder Required,High Risk
+00-963-2193,Milk,Dairy,43,84,88,Reorder Required,High Risk
+08-213-2058,Sour Cream,Dairy,43,59,73,Reorder Required,High Risk
+04-001-1793,Green Coffee,Beverages,43,88,38,Sufficient Stock,High Risk
+57-359-3397,Garlic,Fruits & Vegetables,43,95,40,Sufficient Stock,High Risk
+52-123-8039,Pomegranate,Fruits & Vegetables,43,78,65,Reorder Required,High Risk
+51-761-6320,Egg (Goose),Dairy,43,48,78,Reorder Required,High Risk
+94-528-8088,Haddock,Seafood,43,66,7,Sufficient Stock,High Risk
+40-751-8635,Pineapple,Fruits & Vegetables,44,96,80,Reorder Required,High Risk
+13-844-2178,Sardines,Seafood,44,90,67,Reorder Required,High Risk
+24-364-3341,Egg (Turkey),Dairy,44,51,84,Reorder Required,High Risk
+57-903-6434,Tomato,Fruits & Vegetables,44,82,67,Reorder Required,High Risk
+83-321-7887,Egg (Duck),Dairy,44,96,75,Reorder Required,High Risk
+73-117-6105,Brown Rice,Grains & Pulses,44,67,48,Reorder Required,High Risk
+66-312-5511,Anchovies,Seafood,44,80,97,Reorder Required,High Risk
+86-257-4613,Jasmine Rice,Grains & Pulses,44,63,26,Sufficient Stock,High Risk
+45-317-9731,Palm Oil,Oils & Fats,44,46,83,Reorder Required,High Risk
+68-973-8812,Sweet Potato,Fruits & Vegetables,44,89,77,Reorder Required,High Risk
+40-681-9981,Arabica Coffee,Beverages,45,85,77,Reorder Required,High Risk
+87-762-1317,Mozzarella Cheese,Dairy,45,83,63,Reorder Required,High Risk
+95-090-2788,Sesame Oil,Oils & Fats,45,86,7,Sufficient Stock,High Risk
+16-187-5729,Black Tea,Beverages,45,90,58,Reorder Required,High Risk
+48-789-9187,Peach,Fruits & Vegetables,45,84,79,Reorder Required,High Risk
+73-401-5721,Haddock,Seafood,46,65,28,Sufficient Stock,High Risk
+78-237-0277,Black Tea,Beverages,46,64,27,Sufficient Stock,High Risk
+30-832-5429,Multigrain Bread,Bakery,46,68,43,Sufficient Stock,High Risk
+48-193-1199,Canola Oil,Oils & Fats,46,47,51,Reorder Required,High Risk
+35-617-3857,Arabica Coffee,Beverages,46,59,31,Sufficient Stock,High Risk
+29-017-6255,Bell Pepper,Fruits & Vegetables,46,96,64,Reorder Required,High Risk
+89-181-4523,Wild Rice,Grains & Pulses,46,63,6,Sufficient Stock,High Risk
+47-749-3277,Powdered Sugar,Grains & Pulses,46,54,20,Sufficient Stock,High Risk
+40-902-1995,Asparagus,Fruits & Vegetables,46,59,88,Reorder Required,High Risk
+52-797-6961,Tilapia,Seafood,46,62,80,Reorder Required,High Risk
+89-335-0155,Brown Rice,Grains & Pulses,46,48,81,Reorder Required,High Risk
+19-047-4239,Peach,Fruits & Vegetables,47,93,72,Reorder Required,High Risk
+14-521-4167,Buttermilk,Dairy,47,48,2,Sufficient Stock,High Risk
+38-822-8005,Cucumber,Fruits & Vegetables,47,49,20,Sufficient Stock,High Risk
+49-311-3063,Kiwi,Fruits & Vegetables,47,70,75,Reorder Required,High Risk
+03-919-9890,Halibut,Seafood,47,61,29,Sufficient Stock,High Risk
+19-021-5024,Broccoli,Fruits & Vegetables,47,76,63,Reorder Required,High Risk
+70-612-2531,Pineapple,Fruits & Vegetables,48,51,48,Reorder Required,High Risk
+80-374-5711,Herbal Tea,Beverages,48,70,77,Reorder Required,High Risk
+44-305-1866,Butter,Dairy,48,95,71,Reorder Required,High Risk
+38-664-2155,Cauliflower,Fruits & Vegetables,48,52,27,Sufficient Stock,High Risk
+30-964-2694,Peas,Fruits & Vegetables,48,51,72,Reorder Required,High Risk
+21-890-2826,Gouda Cheese,Dairy,48,59,12,Sufficient Stock,High Risk
+82-041-7211,Swiss Cheese,Dairy,49,78,49,Reorder Required,High Risk
+66-627-9752,Trout,Seafood,49,52,73,Reorder Required,High Risk
+38-296-6634,Peas,Fruits & Vegetables,49,82,46,Sufficient Stock,High Risk
+21-633-8696,Coconut Sugar,Grains & Pulses,49,93,59,Reorder Required,High Risk
+12-714-5135,Ricotta Cheese,Dairy,49,70,28,Sufficient Stock,High Risk
+56-831-6199,Salmon,Seafood,49,96,48,Sufficient Stock,High Risk
+90-128-7973,Black Rice,Grains & Pulses,49,75,3,Sufficient Stock,High Risk
+08-226-5155,Bell Pepper,Fruits & Vegetables,49,52,93,Reorder Required,High Risk
+13-962-6263,Sweet Potato,Fruits & Vegetables,49,97,1,Sufficient Stock,High Risk
+58-063-8633,Bell Pepper,Fruits & Vegetables,50,69,3,Sufficient Stock,High Risk
+94-525-6925,Rye Bread,Bakery,50,70,56,Reorder Required,High Risk
+15-796-3130,Rye Bread,Bakery,50,83,58,Reorder Required,High Risk
+08-961-3009,Cheese,Dairy,50,60,14,Sufficient Stock,High Risk
+36-127-4273,Ricotta Cheese,Dairy,50,88,46,Sufficient Stock,High Risk
+85-835-3445,Egg (Goose),Dairy,50,78,93,Reorder Required,High Risk
+52-392-5312,All-Purpose Flour,Grains & Pulses,50,87,42,Sufficient Stock,High Risk
+33-378-1365,Egg (Goose),Dairy,50,76,66,Reorder Required,High Risk
+54-708-7327,Jasmine Rice,Grains & Pulses,50,52,14,Sufficient Stock,High Risk
+93-815-0565,Sesame Oil,Oils & Fats,50,53,36,Sufficient Stock,High Risk
+55-697-5242,Ricotta Cheese,Dairy,51,54,53,Reorder Required,High Risk
+60-285-3783,Mushrooms,Fruits & Vegetables,51,52,62,Reorder Required,High Risk
+14-550-2152,Green Tea,Beverages,51,96,1,Sufficient Stock,High Risk
+67-725-6830,Brown Rice,Grains & Pulses,51,53,47,Sufficient Stock,High Risk
+12-093-9863,Arborio Rice,Grains & Pulses,51,73,19,Sufficient Stock,High Risk
+71-067-3278,Anchovies,Seafood,51,80,35,Sufficient Stock,High Risk
+11-733-1756,Rice Flour,Grains & Pulses,52,95,81,Reorder Required,High Risk
+73-118-1117,Olive Oil,Oils & Fats,52,100,88,Reorder Required,High Risk
+05-498-7751,Cauliflower,Fruits & Vegetables,52,56,22,Sufficient Stock,High Risk
+48-770-6319,Egg (Duck),Dairy,52,77,31,Sufficient Stock,High Risk
+14-305-5348,Cheese,Dairy,53,56,63,Reorder Required,High Risk
+00-440-9568,Blueberries,Fruits & Vegetables,53,55,98,Reorder Required,High Risk
+30-806-3823,Jasmine Rice,Grains & Pulses,53,100,26,Sufficient Stock,High Risk
+78-953-2073,Canola Oil,Oils & Fats,53,83,20,Sufficient Stock,High Risk
+28-107-4953,Chocolate Biscuit,Bakery,53,82,19,Sufficient Stock,High Risk
+22-621-2774,Strawberries,Fruits & Vegetables,54,63,26,Sufficient Stock,High Risk
+72-404-5581,Almond Flour,Grains & Pulses,54,60,17,Sufficient Stock,High Risk
+14-489-8669,All-Purpose Flour,Grains & Pulses,54,77,69,Reorder Required,High Risk
+34-547-0827,White Rice,Grains & Pulses,54,94,53,Sufficient Stock,High Risk
+89-388-3239,Grapes,Fruits & Vegetables,54,81,88,Reorder Required,High Risk
+43-703-9939,Pineapple,Fruits & Vegetables,55,81,91,Reorder Required,High Risk
+23-265-8144,Yogurt,Dairy,55,62,50,Sufficient Stock,High Risk
+41-526-4036,Whipped Cream,Dairy,55,69,25,Sufficient Stock,High Risk
+60-343-7973,Multigrain Bread,Bakery,56,67,86,Reorder Required,High Risk
+96-774-0457,Cod,Seafood,56,99,50,Sufficient Stock,High Risk
+10-255-8579,Basmati Rice,Grains & Pulses,56,69,53,Sufficient Stock,High Risk
+39-768-8205,Egg (Turkey),Dairy,56,82,97,Reorder Required,High Risk
+29-592-7315,Arborio Rice,Grains & Pulses,56,61,4,Sufficient Stock,High Risk
+29-135-0791,Jasmine Rice,Grains & Pulses,56,71,48,Sufficient Stock,High Risk
+01-839-6534,Short Grain Rice,Grains & Pulses,56,93,28,Sufficient Stock,High Risk
+26-456-1992,Tilapia,Seafood,56,65,59,Reorder Required,High Risk
+26-031-8070,Vegetable Oil,Oils & Fats,57,89,99,Reorder Required,High Risk
+99-194-5600,Cauliflower,Fruits & Vegetables,57,78,25,Sufficient Stock,High Risk
+94-092-3355,Cauliflower,Fruits & Vegetables,57,87,43,Sufficient Stock,High Risk
+71-999-2404,Mango,Fruits & Vegetables,58,85,58,Reorder Required,High Risk
+93-166-3169,White Tea,Beverages,58,85,81,Reorder Required,High Risk
+33-807-7247,Mozzarella Cheese,Dairy,58,62,17,Sufficient Stock,High Risk
+97-283-4840,Palm Oil,Oils & Fats,58,82,23,Sufficient Stock,High Risk
+20-283-0111,Pear,Fruits & Vegetables,58,62,55,Sufficient Stock,High Risk
+56-303-5256,Wild Rice,Grains & Pulses,58,75,24,Sufficient Stock,High Risk
+44-637-5512,Watermelon,Fruits & Vegetables,58,71,12,Sufficient Stock,High Risk
+19-610-2236,Whole Wheat Bread,Bakery,58,98,48,Sufficient Stock,High Risk
+27-442-3654,Herbal Tea,Beverages,59,69,17,Sufficient Stock,High Risk
+87-199-2743,Papaya,Fruits & Vegetables,59,63,74,Reorder Required,High Risk
+69-674-5387,Yogurt,Dairy,59,92,27,Sufficient Stock,High Risk
+92-455-2959,Robusta Coffee,Beverages,59,90,62,Reorder Required,High Risk
+80-025-6757,Grapes,Fruits & Vegetables,59,74,29,Sufficient Stock,High Risk
+98-556-5323,Pomegranate,Fruits & Vegetables,60,96,61,Reorder Required,High Risk
+84-198-7276,Peanut Oil,Oils & Fats,60,94,88,Reorder Required,High Risk
+53-930-2215,Egg (Goose),Dairy,60,77,43,Sufficient Stock,High Risk
+63-168-6018,Cucumber,Fruits & Vegetables,60,74,63,Reorder Required,High Risk
+62-393-9939,Cheddar Cheese,Dairy,60,95,9,Sufficient Stock,High Risk
+26-161-6692,Zucchini,Fruits & Vegetables,61,79,90,Reorder Required,High Risk
+14-844-4138,Black Coffee,Beverages,61,67,43,Sufficient Stock,High Risk
+73-942-0508,Kale,Fruits & Vegetables,61,76,100,Reorder Required,High Risk
+29-436-6570,Digestive Biscuit,Bakery,61,73,8,Sufficient Stock,High Risk
+74-610-2295,Green Coffee,Beverages,61,95,31,Sufficient Stock,High Risk
+19-244-9890,Herbal Tea,Beverages,61,90,22,Sufficient Stock,High Risk
+02-559-8196,Mango,Fruits & Vegetables,61,74,14,Sufficient Stock,High Risk
+41-475-5305,Rye Bread,Bakery,61,71,20,Sufficient Stock,High Risk
+51-469-4611,Long Grain Rice,Grains & Pulses,62,100,81,Reorder Required,High Risk
+68-734-1585,Greek Yogurt,Fruits & Vegetables,62,92,44,Sufficient Stock,High Risk
+24-009-1208,White Tea,Beverages,62,89,31,Sufficient Stock,High Risk
+74-845-3299,Green Tea,Beverages,63,93,92,Reorder Required,High Risk
+60-327-4114,Egg (Turkey),Dairy,63,78,7,Sufficient Stock,High Risk
+98-148-0940,Egg (Chicken),Dairy,63,67,62,Sufficient Stock,High Risk
+49-919-8798,Evaporated Milk,Dairy,64,85,31,Sufficient Stock,High Risk
+20-387-7746,Powdered Sugar,Grains & Pulses,64,97,10,Sufficient Stock,High Risk
+18-107-7886,Evaporated Milk,Dairy,64,74,28,Sufficient Stock,High Risk
+71-074-6292,Sourdough Bread,Bakery,65,100,79,Reorder Required,High Risk
+94-658-4945,Sweet Potato,Fruits & Vegetables,65,71,10,Sufficient Stock,High Risk
+99-543-5039,Lemon,Fruits & Vegetables,65,89,88,Reorder Required,High Risk
+00-842-9790,Egg (Goose),Dairy,65,66,94,Reorder Required,High Risk
+28-986-8001,Pomegranate,Fruits & Vegetables,65,80,69,Reorder Required,High Risk
+26-000-1012,Parmesan Cheese,Dairy,65,69,54,Sufficient Stock,High Risk
+74-642-2435,Cauliflower,Fruits & Vegetables,66,85,31,Sufficient Stock,High Risk
+46-496-2930,Pomegranate,Fruits & Vegetables,66,85,28,Sufficient Stock,High Risk
+81-578-7404,Gouda Cheese,Dairy,67,73,79,Reorder Required,High Risk
+66-327-2821,Palm Oil,Oils & Fats,67,78,57,Sufficient Stock,High Risk
+91-426-3204,Haddock,Seafood,67,76,71,Reorder Required,High Risk
+03-833-3577,Cucumber,Fruits & Vegetables,67,81,14,Sufficient Stock,High Risk
+23-070-2433,Powdered Sugar,Grains & Pulses,68,69,7,Sufficient Stock,High Risk
+51-312-8608,Cheddar Cheese,Dairy,68,79,60,Sufficient Stock,High Risk
+83-625-3618,Asparagus,Fruits & Vegetables,68,84,12,Sufficient Stock,High Risk
+82-678-8097,Cottage Cheese,Dairy,68,90,82,Reorder Required,High Risk
+01-018-6418,Chocolate Biscuit,Bakery,68,70,29,Sufficient Stock,High Risk
+19-323-0506,Halibut,Seafood,68,75,43,Sufficient Stock,High Risk
+24-310-9184,Rye Bread,Bakery,69,98,65,Sufficient Stock,High Risk
+11-604-6002,Canola Oil,Oils & Fats,69,79,17,Sufficient Stock,High Risk
+56-668-5370,Vegetable Oil,Oils & Fats,70,100,96,Reorder Required,High Risk
+45-402-0421,Swiss Cheese,Dairy,70,71,84,Reorder Required,High Risk
+68-436-1268,Egg (Duck),Dairy,70,95,92,Reorder Required,High Risk
+87-997-0228,Watermelon,Fruits & Vegetables,71,81,4,Sufficient Stock,High Risk
+46-415-8633,Apple,Fruits & Vegetables,71,87,36,Sufficient Stock,High Risk
+25-522-6043,Gouda Cheese,Dairy,71,77,93,Reorder Required,High Risk
+25-349-7974,Spinach,Fruits & Vegetables,72,82,70,Sufficient Stock,High Risk
+79-741-0770,Mushrooms,Fruits & Vegetables,72,94,87,Reorder Required,High Risk
+61-317-9944,White Bread,Bakery,72,87,20,Sufficient Stock,High Risk
+11-338-4598,Potato,Fruits & Vegetables,72,96,58,Sufficient Stock,High Risk
+89-673-1543,Digestive Biscuit,Bakery,72,85,78,Reorder Required,High Risk
+74-430-8245,Peach,Fruits & Vegetables,73,75,90,Reorder Required,High Risk
+61-582-7399,Apricot,Fruits & Vegetables,73,87,83,Reorder Required,High Risk
+45-852-2446,Salmon,Seafood,73,89,12,Sufficient Stock,High Risk
+25-010-9478,Eggplant,Fruits & Vegetables,74,82,30,Sufficient Stock,High Risk
+40-860-4532,Arabica Coffee,Beverages,74,83,72,Sufficient Stock,High Risk
+80-459-5950,Arabica Coffee,Beverages,74,100,10,Sufficient Stock,High Risk
+93-218-8108,Heavy Cream,Dairy,74,99,60,Sufficient Stock,High Risk
+40-126-0515,Carrot,Fruits & Vegetables,74,91,37,Sufficient Stock,High Risk
+02-974-8526,Onion,Fruits & Vegetables,74,97,4,Sufficient Stock,High Risk
+34-075-0371,Watermelon,Fruits & Vegetables,75,90,10,Sufficient Stock,High Risk
+01-144-5960,Trout,Seafood,75,89,25,Sufficient Stock,High Risk
+43-153-8268,Vegetable Oil,Oils & Fats,75,79,61,Sufficient Stock,High Risk
+50-942-2409,Peas,Fruits & Vegetables,75,96,91,Reorder Required,High Risk
+25-911-7736,Orange,Fruits & Vegetables,75,96,48,Sufficient Stock,High Risk
+21-252-1360,Corn Oil,Oils & Fats,75,100,23,Sufficient Stock,High Risk
+93-682-2069,Lime,Fruits & Vegetables,76,77,39,Sufficient Stock,High Risk
+83-108-1174,White Bread,Bakery,78,89,68,Sufficient Stock,High Risk
+77-013-1553,Canola Oil,Oils & Fats,79,92,31,Sufficient Stock,High Risk
+38-655-2312,Kale,Fruits & Vegetables,79,80,74,Sufficient Stock,High Risk
+28-003-8065,Almond Flour,Grains & Pulses,79,83,47,Sufficient Stock,High Risk
+46-436-5351,Green Tea,Beverages,80,81,54,Sufficient Stock,High Risk
+05-720-8792,Carrot,Fruits & Vegetables,80,81,91,Reorder Required,High Risk
+35-257-9312,Parmesan Cheese,Dairy,80,100,100,Reorder Required,High Risk
+17-504-3699,Sweet Potato,Fruits & Vegetables,80,98,60,Sufficient Stock,High Risk
+64-418-8356,Sunflower Oil,Oils & Fats,80,98,24,Sufficient Stock,High Risk
+42-879-9478,Anchovies,Seafood,81,95,22,Sufficient Stock,High Risk
+42-175-1648,Pomegranate,Fruits & Vegetables,81,94,87,Reorder Required,High Risk
+17-265-1899,Orange,Fruits & Vegetables,81,86,35,Sufficient Stock,High Risk
+79-920-2395,Mushrooms,Fruits & Vegetables,81,92,23,Sufficient Stock,High Risk
+84-327-7787,Egg (Chicken),Dairy,83,94,35,Sufficient Stock,High Risk
+67-710-5120,Bread Flour,Grains & Pulses,84,92,92,Reorder Required,High Risk
+04-453-5485,Tomato,Fruits & Vegetables,84,86,20,Sufficient Stock,High Risk
+91-105-7317,Orange,Fruits & Vegetables,85,95,45,Sufficient Stock,High Risk
+10-249-7928,Black Rice,Grains & Pulses,85,95,4,Sufficient Stock,High Risk
+99-961-0767,Heavy Cream,Dairy,85,95,15,Sufficient Stock,High Risk
+44-112-3331,Tuna,Seafood,85,92,17,Sufficient Stock,High Risk
+30-996-2526,Green Beans,Fruits & Vegetables,86,98,90,Reorder Required,High Risk
+50-772-2613,Cheddar Cheese,Dairy,86,100,23,Sufficient Stock,High Risk
+00-534-9775,Black Coffee,Beverages,87,90,91,Reorder Required,High Risk
+47-578-4161,Anchovies,Seafood,88,98,56,Sufficient Stock,High Risk
+68-977-2498,Grapes,Fruits & Vegetables,88,93,99,Reorder Required,High Risk
+50-930-4751,Salmon,Seafood,88,96,40,Sufficient Stock,High Risk
+27-387-0428,Halibut,Seafood,88,92,42,Sufficient Stock,High Risk
+83-556-0996,Powdered Sugar,Grains & Pulses,88,95,34,Sufficient Stock,High Risk
+80-371-3695,Cottage Cheese,Dairy,89,94,42,Sufficient Stock,High Risk
+96-164-0607,Coconut Oil,Oils & Fats,89,91,79,Sufficient Stock,High Risk
+52-402-9245,Broccoli,Fruits & Vegetables,89,93,40,Sufficient Stock,High Risk
+60-644-6596,Trout,Seafood,89,96,67,Sufficient Stock,High Risk
+42-220-9305,White Sugar,Grains & Pulses,91,100,98,Reorder Required,High Risk
+07-834-3320,Egg (Quail),Dairy,94,100,60,Sufficient Stock,High Risk
+31-745-6850,Cabbage,Fruits & Vegetables,94,98,90,Sufficient Stock,High Risk
+17-647-0503,Cod,Seafood,96,97,12,Sufficient Stock,High Risk
+83-704-6367,Arabica Coffee,Beverages,21,20,87,Reorder Required,Low Risk
+38-417-4656,White Sugar,Grains & Pulses,24,20,69,Reorder Required,Low Risk
+56-213-0577,Papaya,Fruits & Vegetables,24,24,25,Reorder Required,Low Risk
+53-710-7630,Rice Flour,Grains & Pulses,25,24,95,Reorder Required,Low Risk
+55-631-7937,Greek Yogurt,Dairy,26,25,54,Reorder Required,Low Risk
+69-834-2874,Oatmeal Biscuit,Bakery,28,28,62,Reorder Required,Low Risk
+74-305-1263,Green Coffee,Beverages,29,28,91,Reorder Required,Low Risk
+34-538-1180,Sour Cream,Dairy,29,23,39,Reorder Required,Low Risk
+86-692-2312,Avocado Oil,Oils & Fats,30,22,48,Reorder Required,Low Risk
+69-171-1305,Brown Rice,Grains & Pulses,31,25,29,Sufficient Stock,Low Risk
+65-759-3721,Butter Biscuit,Bakery,33,20,60,Reorder Required,Low Risk
+75-029-9003,Sourdough Bread,Bakery,34,28,42,Reorder Required,Low Risk
+47-843-8207,Cauliflower,Fruits & Vegetables,34,28,92,Reorder Required,Low Risk
+14-681-7035,White Tea,Beverages,36,35,90,Reorder Required,Low Risk
+43-164-5984,Butter,Dairy,36,26,75,Reorder Required,Low Risk
+12-828-1063,Mozzarella Cheese,Dairy,36,27,82,Reorder Required,Low Risk
+63-874-9747,Orange,Fruits & Vegetables,36,25,59,Reorder Required,Low Risk
+22-778-3553,Cheddar Cheese,Dairy,36,30,77,Reorder Required,Low Risk
+74-666-5671,Tuna,Seafood,37,27,33,Sufficient Stock,Low Risk
+53-151-5726,Grapes,Fruits & Vegetables,37,34,45,Reorder Required,Low Risk
+76-476-9996,Chocolate Biscuit,Bakery,37,35,96,Reorder Required,Low Risk
+16-380-0753,Apricot,Fruits & Vegetables,38,33,22,Sufficient Stock,Low Risk
+86-978-6666,Whole Wheat Flour,Grains & Pulses,38,34,43,Reorder Required,Low Risk
+28-146-2641,Parmesan Cheese,Dairy,38,35,67,Reorder Required,Low Risk
+32-987-5559,Green Tea,Beverages,39,28,88,Reorder Required,Low Risk
+10-218-2680,Egg (Turkey),Dairy,39,26,93,Reorder Required,Low Risk
+76-027-4850,Onion,Fruits & Vegetables,39,25,37,Sufficient Stock,Low Risk
+35-328-8392,Long Grain Rice,Grains & Pulses,39,20,2,Sufficient Stock,Low Risk
+54-822-9009,Cauliflower,Grains & Pulses,40,21,38,Sufficient Stock,Low Risk
+18-199-5799,Cheddar Cheese,Dairy,40,40,81,Reorder Required,Low Risk
+00-119-8780,Halibut,Seafood,40,39,81,Reorder Required,Low Risk
+47-441-7682,Digestive Biscuit,Bakery,40,28,91,Reorder Required,Low Risk
+05-184-4175,Black Coffee,Beverages,40,33,30,Sufficient Stock,Low Risk
+46-520-1819,Short Grain Rice,Grains & Pulses,41,38,36,Sufficient Stock,Low Risk
+47-866-6589,Egg (Duck),Dairy,41,30,61,Reorder Required,Low Risk
+01-173-0029,Blueberries,Fruits & Vegetables,42,37,4,Sufficient Stock,Low Risk
+61-801-8665,Robusta Coffee,Beverages,42,34,88,Reorder Required,Low Risk
+99-033-5661,Rice Flour,Grains & Pulses,42,35,3,Sufficient Stock,Low Risk
+79-494-2472,Green Beans,Fruits & Vegetables,42,39,48,Reorder Required,Low Risk
+46-452-9419,Egg (Duck),Dairy,43,27,10,Sufficient Stock,Low Risk
+82-243-3180,Palm Oil,Oils & Fats,43,33,63,Reorder Required,Low Risk
+17-022-9721,Apple,Fruits & Vegetables,43,39,63,Reorder Required,Low Risk
+70-534-7796,Zucchini,Fruits & Vegetables,43,22,21,Sufficient Stock,Low Risk
+84-546-7624,Cherry,Fruits & Vegetables,43,27,41,Sufficient Stock,Low Risk
+39-629-5554,Egg (Goose),Dairy,44,21,90,Reorder Required,Low Risk
+91-127-7489,Orange,Fruits & Vegetables,44,42,8,Sufficient Stock,Low Risk
+69-578-7930,Brown Rice,Grains & Pulses,44,44,67,Reorder Required,Low Risk
+14-836-2894,Apple,Fruits & Vegetables,44,41,92,Reorder Required,Low Risk
+52-481-5224,Kiwi,Fruits & Vegetables,45,44,24,Sufficient Stock,Low Risk
+29-875-6900,Papaya,Fruits & Vegetables,45,35,28,Sufficient Stock,Low Risk
+43-469-7551,Arabica Coffee,Beverages,45,36,36,Sufficient Stock,Low Risk
+74-818-3306,Spinach,Fruits & Vegetables,45,25,70,Reorder Required,Low Risk
+33-670-6797,Mackerel,Seafood,45,35,56,Reorder Required,Low Risk
+96-961-2193,Jasmine Rice,Grains & Pulses,46,36,39,Sufficient Stock,Low Risk
+04-240-2226,Olive Oil,Oils & Fats,47,42,48,Reorder Required,Low Risk
+22-141-9798,White Sugar,Grains & Pulses,47,29,7,Sufficient Stock,Low Risk
+76-264-0748,Eggplant,Fruits & Vegetables,47,39,41,Sufficient Stock,Low Risk
+78-956-4737,Sushi Rice,Grains & Pulses,47,32,1,Sufficient Stock,Low Risk
+29-741-8132,Kale,Fruits & Vegetables,47,26,22,Sufficient Stock,Low Risk
+13-673-7016,Peach,Fruits & Vegetables,47,36,67,Reorder Required,Low Risk
+24-478-8277,Multigrain Bread,Bakery,47,30,26,Sufficient Stock,Low Risk
+28-197-9246,Powdered Sugar,Grains & Pulses,47,22,30,Sufficient Stock,Low Risk
+04-038-1547,Rye Bread,Bakery,48,27,2,Sufficient Stock,Low Risk
+74-294-3760,Peanut Oil,Oils & Fats,49,45,17,Sufficient Stock,Low Risk
+76-090-4411,Ricotta Cheese,Dairy,49,38,94,Reorder Required,Low Risk
+63-162-9244,Eggplant,Fruits & Vegetables,49,37,89,Reorder Required,Low Risk
+97-040-3822,Swiss Cheese,Dairy,50,42,99,Reorder Required,Low Risk
+65-282-0419,White Tea,Beverages,50,29,100,Reorder Required,Low Risk
+90-303-1821,Onion,Fruits & Vegetables,50,30,20,Sufficient Stock,Low Risk
+58-219-0241,Avocado Oil,Oils & Fats,50,27,36,Sufficient Stock,Low Risk
+05-425-0746,Onion,Fruits & Vegetables,50,40,68,Reorder Required,Low Risk
+88-408-0310,Corn Oil,Oils & Fats,50,28,40,Sufficient Stock,Low Risk
+43-693-2092,Butter,Dairy,51,40,100,Reorder Required,Low Risk
+11-581-9869,Carrot,Fruits & Vegetables,51,44,60,Reorder Required,Low Risk
+02-895-7781,Coconut Sugar,Grains & Pulses,51,21,55,Reorder Required,Low Risk
+21-993-5632,Watermelon,Fruits & Vegetables,51,23,72,Reorder Required,Low Risk
+79-569-8856,Vegetable Oil,Oils & Fats,51,24,87,Reorder Required,Low Risk
+83-763-5038,Buttermilk,Dairy,52,21,64,Reorder Required,Low Risk
+06-797-4963,Pomegranate,Fruits & Vegetables,52,38,8,Sufficient Stock,Low Risk
+29-823-6004,Zucchini,Fruits & Vegetables,52,36,79,Reorder Required,Low Risk
+32-676-1026,Salmon,Seafood,52,43,46,Sufficient Stock,Low Risk
+67-984-5368,Parmesan Cheese,Dairy,52,31,56,Reorder Required,Low Risk
+19-967-0632,Short Grain Rice,Grains & Pulses,53,44,86,Reorder Required,Low Risk
+22-329-7791,Watermelon,Fruits & Vegetables,53,24,41,Sufficient Stock,Low Risk
+90-343-9640,Avocado Oil,Oils & Fats,53,22,89,Reorder Required,Low Risk
+63-918-8253,Mango,Fruits & Vegetables,53,41,98,Reorder Required,Low Risk
+52-029-2382,Coconut Oil,Oils & Fats,54,29,86,Reorder Required,Low Risk
+45-250-4679,Bread Flour,Grains & Pulses,54,41,78,Reorder Required,Low Risk
+21-120-6238,All-Purpose Flour,Grains & Pulses,55,34,33,Sufficient Stock,Low Risk
+48-414-6162,Arabica Coffee,Beverages,55,46,93,Reorder Required,Low Risk
+43-193-9915,Mozzarella Cheese,Dairy,55,48,58,Reorder Required,Low Risk
+34-369-7712,Apricot,Fruits & Vegetables,55,23,96,Reorder Required,Low Risk
+36-372-2295,Basmati Rice,Grains & Pulses,55,37,13,Sufficient Stock,Low Risk
+87-698-0944,Banana,Fruits & Vegetables,56,35,12,Sufficient Stock,Low Risk
+67-473-7093,Black Tea,Beverages,56,52,12,Sufficient Stock,Low Risk
+31-627-6025,White Bread,Bakery,56,56,62,Reorder Required,Low Risk
+20-325-1965,Coconut,Fruits & Vegetables,56,42,75,Reorder Required,Low Risk
+67-546-1568,Peanut Oil,Oils & Fats,57,56,36,Sufficient Stock,Low Risk
+57-394-1587,Bread Flour,Grains & Pulses,57,53,63,Reorder Required,Low Risk
+39-315-3936,Heavy Cream,Dairy,57,23,62,Reorder Required,Low Risk
+74-404-0582,Cherry,Fruits & Vegetables,57,44,82,Reorder Required,Low Risk
+26-690-3784,Lettuce,Fruits & Vegetables,58,53,5,Sufficient Stock,Low Risk
+44-538-3366,Tuna,Seafood,58,25,77,Reorder Required,Low Risk
+15-144-9413,Strawberries,Fruits & Vegetables,58,52,15,Sufficient Stock,Low Risk
+69-468-5468,Sourdough Bread,Bakery,59,32,78,Reorder Required,Low Risk
+69-287-9113,Zucchini,Fruits & Vegetables,59,54,91,Reorder Required,Low Risk
+08-725-8156,Tilapia,Seafood,59,57,59,Reorder Required,Low Risk
+58-122-2282,Black Tea,Beverages,59,45,20,Sufficient Stock,Low Risk
+76-401-7083,Pomegranate,Fruits & Vegetables,59,47,79,Reorder Required,Low Risk
+56-054-8664,Lemon,Fruits & Vegetables,59,30,82,Reorder Required,Low Risk
+28-185-7303,Robusta Coffee,Beverages,59,48,31,Sufficient Stock,Low Risk
+57-101-0060,Whole Wheat Flour,Grains & Pulses,59,32,73,Reorder Required,Low Risk
+43-893-5408,Short Grain Rice,Grains & Pulses,60,47,90,Reorder Required,Low Risk
+03-276-3931,Mango,Fruits & Vegetables,60,26,36,Sufficient Stock,Low Risk
+08-114-3922,Anchovies,Seafood,60,34,64,Reorder Required,Low Risk
+96-334-2593,White Tea,Beverages,60,43,27,Sufficient Stock,Low Risk
+04-104-6993,Buttermilk,Dairy,60,42,1,Sufficient Stock,Low Risk
+44-634-8292,Whole Wheat Flour,Grains & Pulses,60,51,69,Reorder Required,Low Risk
+24-571-1080,Kale,Fruits & Vegetables,60,21,15,Sufficient Stock,Low Risk
+44-552-3909,Pear,Fruits & Vegetables,61,24,50,Sufficient Stock,Low Risk
+56-657-4387,White Bread,Bakery,61,51,77,Reorder Required,Low Risk
+46-083-7058,Haddock,Seafood,61,34,91,Reorder Required,Low Risk
+29-092-3453,Spinach,Fruits & Vegetables,61,31,17,Sufficient Stock,Low Risk
+34-709-9237,Carrot,Fruits & Vegetables,61,26,81,Reorder Required,Low Risk
+36-918-2937,Green Coffee,Beverages,62,35,89,Reorder Required,Low Risk
+31-969-4614,Arabica Coffee,Beverages,62,23,89,Reorder Required,Low Risk
+28-956-1320,Greek Yogurt,Dairy,62,50,2,Sufficient Stock,Low Risk
+87-097-5691,Robusta Coffee,Beverages,62,62,78,Reorder Required,Low Risk
+99-137-1730,Bread Flour,Grains & Pulses,62,32,79,Reorder Required,Low Risk
+38-555-9147,Black Coffee,Beverages,62,34,23,Sufficient Stock,Low Risk
+79-428-8753,Cabbage,Fruits & Vegetables,62,34,79,Reorder Required,Low Risk
+75-672-4378,Pomegranate,Fruits & Vegetables,62,45,40,Sufficient Stock,Low Risk
+85-510-2915,White Bread,Bakery,62,42,49,Sufficient Stock,Low Risk
+56-937-8675,Cream,Dairy,62,41,91,Reorder Required,Low Risk
+53-008-2419,Jasmine Rice,Grains & Pulses,62,31,36,Sufficient Stock,Low Risk
+68-418-6724,Parmesan Cheese,Dairy,63,59,4,Sufficient Stock,Low Risk
+64-478-4745,Lemon,Fruits & Vegetables,63,56,81,Reorder Required,Low Risk
+32-261-0008,Heavy Cream,Dairy,63,21,48,Sufficient Stock,Low Risk
+28-608-0039,Lemon,Fruits & Vegetables,63,33,60,Sufficient Stock,Low Risk
+66-806-6051,Yogurt,Dairy,63,56,12,Sufficient Stock,Low Risk
+74-132-5528,Cauliflower,Fruits & Vegetables,63,62,62,Sufficient Stock,Low Risk
+66-854-5736,Kiwi,Fruits & Vegetables,63,20,57,Sufficient Stock,Low Risk
+01-820-5784,Egg (Duck),Dairy,63,23,38,Sufficient Stock,Low Risk
+87-423-8486,Powdered Sugar,Grains & Pulses,63,40,4,Sufficient Stock,Low Risk
+31-387-5020,Parmesan Cheese,Dairy,63,37,41,Sufficient Stock,Low Risk
+89-328-9019,Bread Flour,Grains & Pulses,63,55,43,Sufficient Stock,Low Risk
+63-897-8088,Zucchini,Fruits & Vegetables,63,35,56,Sufficient Stock,Low Risk
+06-611-5454,Peanut Oil,Oils & Fats,64,51,21,Sufficient Stock,Low Risk
+45-194-4094,Plum,Fruits & Vegetables,64,60,71,Reorder Required,Low Risk
+07-858-5487,Swiss Cheese,Dairy,64,53,14,Sufficient Stock,Low Risk
+02-484-0206,Short Grain Rice,Grains & Pulses,64,48,97,Reorder Required,Low Risk
+49-579-4325,Ricotta Cheese,Dairy,64,55,95,Reorder Required,Low Risk
+28-275-5901,Anchovies,Seafood,64,49,1,Sufficient Stock,Low Risk
+35-353-4068,Bread Flour,Grains & Pulses,64,33,11,Sufficient Stock,Low Risk
+55-680-0982,Green Tea,Beverages,64,25,66,Reorder Required,Low Risk
+76-854-0095,White Sugar,Grains & Pulses,65,29,61,Sufficient Stock,Low Risk
+63-270-7076,Multigrain Bread,Bakery,65,32,36,Sufficient Stock,Low Risk
+93-966-7754,Pineapple,Fruits & Vegetables,65,25,35,Sufficient Stock,Low Risk
+98-445-7372,Cod,Seafood,65,56,79,Reorder Required,Low Risk
+55-154-4728,Arabica Coffee,Beverages,65,28,63,Sufficient Stock,Low Risk
+38-617-7226,Mushrooms,Fruits & Vegetables,65,54,42,Sufficient Stock,Low Risk
+89-543-3456,Blueberries,Fruits & Vegetables,66,24,40,Sufficient Stock,Low Risk
+34-861-4446,Ricotta Cheese,Dairy,66,43,40,Sufficient Stock,Low Risk
+71-954-4501,Anchovies,Seafood,66,27,49,Sufficient Stock,Low Risk
+09-335-7793,Powdered Sugar,Grains & Pulses,66,30,19,Sufficient Stock,Low Risk
+90-230-9767,Long Grain Rice,Grains & Pulses,67,66,88,Reorder Required,Low Risk
+31-746-4951,Whole Wheat Flour,Grains & Pulses,67,30,60,Sufficient Stock,Low Risk
+94-190-5193,Carrot,Fruits & Vegetables,67,67,68,Reorder Required,Low Risk
+98-909-9395,Cottage Cheese,Dairy,67,35,98,Reorder Required,Low Risk
+12-342-4482,Trout,Seafood,67,66,83,Reorder Required,Low Risk
+70-587-1204,Black Rice,Grains & Pulses,68,37,68,Reorder Required,Low Risk
+63-956-0739,Robusta Coffee,Beverages,68,39,12,Sufficient Stock,Low Risk
+85-440-3667,Gouda Cheese,Dairy,68,53,29,Sufficient Stock,Low Risk
+73-751-4393,Onion,Fruits & Vegetables,68,37,10,Sufficient Stock,Low Risk
+33-507-9886,Pineapple,Fruits & Vegetables,68,25,25,Sufficient Stock,Low Risk
+24-972-6969,Cheese,Dairy,69,28,53,Sufficient Stock,Low Risk
+22-083-3347,Long Grain Rice,Grains & Pulses,69,34,82,Reorder Required,Low Risk
+97-093-4278,Buttermilk,Dairy,69,29,98,Reorder Required,Low Risk
+10-378-9729,Cabbage,Fruits & Vegetables,69,36,21,Sufficient Stock,Low Risk
+64-493-5270,Palm Oil,Oils & Fats,69,63,59,Sufficient Stock,Low Risk
+97-772-2336,Pineapple,Fruits & Vegetables,70,44,30,Sufficient Stock,Low Risk
+96-316-7600,Bell Pepper,Fruits & Vegetables,70,23,31,Sufficient Stock,Low Risk
+10-034-7654,Bread Flour,Grains & Pulses,70,27,96,Reorder Required,Low Risk
+21-693-8216,Corn Oil,Oils & Fats,70,34,96,Reorder Required,Low Risk
+96-682-8546,Egg (Chicken),Dairy,70,62,29,Sufficient Stock,Low Risk
+96-209-1739,Evaporated Milk,Dairy,70,24,81,Reorder Required,Low Risk
+66-716-8221,Cheddar Cheese,Dairy,70,63,96,Reorder Required,Low Risk
+03-597-9488,Buttermilk,Dairy,70,47,66,Sufficient Stock,Low Risk
+56-810-0550,Mackerel,Seafood,71,52,7,Sufficient Stock,Low Risk
+65-145-9672,Long Grain Rice,Grains & Pulses,71,66,10,Sufficient Stock,Low Risk
+94-697-2396,Sourdough Bread,Bakery,71,58,97,Reorder Required,Low Risk
+84-624-0201,Bread Flour,Grains & Pulses,71,34,77,Reorder Required,Low Risk
+39-358-3340,Basmati Rice,Grains & Pulses,71,60,60,Sufficient Stock,Low Risk
+78-362-8578,Lemon,Fruits & Vegetables,72,25,32,Sufficient Stock,Low Risk
+44-782-1395,Raw Sugar,Grains & Pulses,72,39,72,Reorder Required,Low Risk
+82-711-0772,Egg (Goose),Dairy,72,36,58,Sufficient Stock,Low Risk
+62-998-7250,Evaporated Milk,Dairy,72,52,3,Sufficient Stock,Low Risk
+57-763-5501,Cod,Seafood,72,54,29,Sufficient Stock,Low Risk
+06-655-5498,Wild Rice,Grains & Pulses,72,51,82,Reorder Required,Low Risk
+81-844-2979,Broccoli,Fruits & Vegetables,73,47,87,Reorder Required,Low Risk
+81-605-6246,Sardines,Seafood,73,22,31,Sufficient Stock,Low Risk
+93-198-5984,Mango,Fruits & Vegetables,73,50,69,Sufficient Stock,Low Risk
+76-459-2392,Palm Oil,Oils & Fats,74,31,4,Sufficient Stock,Low Risk
+89-602-6755,Milk,Dairy,74,24,90,Reorder Required,Low Risk
+27-783-5470,Feta Cheese,Dairy,74,21,65,Sufficient Stock,Low Risk
+08-495-6853,Heavy Cream,Dairy,74,65,62,Sufficient Stock,Low Risk
+26-799-3714,Robusta Coffee,Beverages,74,37,2,Sufficient Stock,Low Risk
+77-377-1659,Almond Flour,Grains & Pulses,74,24,22,Sufficient Stock,Low Risk
+65-780-5622,Butter Biscuit,Bakery,74,51,81,Reorder Required,Low Risk
+54-109-8062,Sushi Rice,Grains & Pulses,75,43,69,Sufficient Stock,Low Risk
+82-395-5070,Chocolate Biscuit,Bakery,75,69,81,Reorder Required,Low Risk
+40-810-9261,Green Coffee,Beverages,75,33,47,Sufficient Stock,Low Risk
+77-224-2227,Almond Flour,Grains & Pulses,75,43,46,Sufficient Stock,Low Risk
+34-110-1040,Bell Pepper,Fruits & Vegetables,75,26,85,Reorder Required,Low Risk
+60-550-4771,Haddock,Seafood,75,49,80,Reorder Required,Low Risk
+13-888-0149,Lime,Fruits & Vegetables,75,32,18,Sufficient Stock,Low Risk
+29-344-3658,Lime,Fruits & Vegetables,75,63,56,Sufficient Stock,Low Risk
+83-917-7384,Garlic,Fruits & Vegetables,76,52,97,Reorder Required,Low Risk
+12-998-3882,Egg (Turkey),Dairy,76,69,54,Sufficient Stock,Low Risk
+92-291-7089,Cheese,Dairy,76,60,15,Sufficient Stock,Low Risk
+98-575-4736,Cucumber,Fruits & Vegetables,76,22,11,Sufficient Stock,Low Risk
+73-567-6194,Whipped Cream,Dairy,76,65,81,Reorder Required,Low Risk
+40-997-2786,Yogurt,Dairy,76,62,98,Reorder Required,Low Risk
+17-493-4579,Almond Flour,Grains & Pulses,76,24,8,Sufficient Stock,Low Risk
+36-840-2728,Mackerel,Seafood,76,31,21,Sufficient Stock,Low Risk
+81-354-4203,Haddock,Seafood,76,52,57,Sufficient Stock,Low Risk
+16-499-5059,Pear,Fruits & Vegetables,77,61,20,Sufficient Stock,Low Risk
+79-136-9840,Herbal Tea,Beverages,77,25,45,Sufficient Stock,Low Risk
+62-777-6010,Sushi Rice,Grains & Pulses,77,42,20,Sufficient Stock,Low Risk
+49-526-7806,Kale,Fruits & Vegetables,77,48,52,Sufficient Stock,Low Risk
+41-538-3129,Digestive Biscuit,Bakery,77,62,79,Reorder Required,Low Risk
+83-573-4586,Sesame Oil,Oils & Fats,77,29,95,Reorder Required,Low Risk
+41-594-5069,Egg (Duck),Dairy,77,58,1,Sufficient Stock,Low Risk
+67-248-6306,Cauliflower,Fruits & Vegetables,77,64,54,Sufficient Stock,Low Risk
+41-131-3841,Almond Flour,Grains & Pulses,77,27,19,Sufficient Stock,Low Risk
+15-884-7413,Apple,Fruits & Vegetables,77,63,58,Sufficient Stock,Low Risk
+91-257-3672,Tilapia,Seafood,78,63,75,Sufficient Stock,Low Risk
+82-380-5378,Cheese,Dairy,78,60,24,Sufficient Stock,Low Risk
+65-674-6076,Egg (Quail),Dairy,78,49,61,Sufficient Stock,Low Risk
+93-571-7294,Sushi Rice,Grains & Pulses,78,69,94,Reorder Required,Low Risk
+31-803-5001,Asparagus,Fruits & Vegetables,78,25,16,Sufficient Stock,Low Risk
+47-221-3391,Black Coffee,Beverages,78,54,38,Sufficient Stock,Low Risk
+85-781-5386,Salmon,Seafood,78,47,68,Sufficient Stock,Low Risk
+59-725-4038,Arabica Coffee,Beverages,78,62,34,Sufficient Stock,Low Risk
+90-737-0044,Black Rice,Grains & Pulses,79,26,98,Reorder Required,Low Risk
+37-709-3532,Mushrooms,Fruits & Vegetables,79,55,45,Sufficient Stock,Low Risk
+71-300-2191,Broccoli,Fruits & Vegetables,79,67,72,Sufficient Stock,Low Risk
+64-854-8664,Peanut Oil,Oils & Fats,79,46,3,Sufficient Stock,Low Risk
+36-330-5036,Salmon,Seafood,79,42,28,Sufficient Stock,Low Risk
+41-240-8856,Haddock,Seafood,79,45,53,Sufficient Stock,Low Risk
+94-071-2261,Pear,Fruits & Vegetables,79,33,37,Sufficient Stock,Low Risk
+94-598-3383,Brown Rice,Grains & Pulses,79,43,38,Sufficient Stock,Low Risk
+27-262-2437,Swiss Cheese,Dairy,80,54,9,Sufficient Stock,Low Risk
+82-342-7339,Vanilla Biscuit,Bakery,80,63,61,Sufficient Stock,Low Risk
+91-553-1774,Feta Cheese,Dairy,80,64,43,Sufficient Stock,Low Risk
+20-448-2972,Asparagus,Fruits & Vegetables,80,26,6,Sufficient Stock,Low Risk
+98-546-7398,Yogurt,Dairy,80,41,69,Sufficient Stock,Low Risk
+21-809-7115,White Rice,Grains & Pulses,80,46,86,Reorder Required,Low Risk
+78-614-4402,Green Beans,Fruits & Vegetables,81,20,99,Reorder Required,Low Risk
+00-405-7428,Apple,Fruits & Vegetables,81,42,74,Sufficient Stock,Low Risk
+25-353-2067,Papaya,Fruits & Vegetables,81,23,16,Sufficient Stock,Low Risk
+57-394-4703,White Tea,Beverages,81,74,83,Reorder Required,Low Risk
+49-570-8214,Sour Cream,Dairy,81,68,76,Sufficient Stock,Low Risk
+75-152-8731,Pear,Fruits & Vegetables,82,30,65,Sufficient Stock,Low Risk
+05-193-8096,Grapes,Fruits & Vegetables,82,39,21,Sufficient Stock,Low Risk
+53-050-8242,Mackerel,Seafood,82,66,25,Sufficient Stock,Low Risk
+69-561-2496,Banana,Fruits & Vegetables,82,77,29,Sufficient Stock,Low Risk
+95-130-9020,Heavy Cream,Dairy,82,69,12,Sufficient Stock,Low Risk
+38-049-9319,Oatmeal Biscuit,Bakery,82,21,6,Sufficient Stock,Low Risk
+49-730-0159,Cream,Dairy,82,48,3,Sufficient Stock,Low Risk
+45-992-5653,Whole Wheat Flour,Grains & Pulses,82,26,67,Sufficient Stock,Low Risk
+55-164-7723,Halibut,Seafood,82,66,31,Sufficient Stock,Low Risk
+09-536-2626,Olive Oil,Oils & Fats,83,47,52,Sufficient Stock,Low Risk
+10-445-0741,Anchovies,Seafood,83,33,17,Sufficient Stock,Low Risk
+82-538-4809,Cabbage,Fruits & Vegetables,83,35,61,Sufficient Stock,Low Risk
+21-816-1004,Black Coffee,Beverages,84,25,13,Sufficient Stock,Low Risk
+74-711-7160,Sushi Rice,Grains & Pulses,84,39,69,Sufficient Stock,Low Risk
+27-389-3529,Haddock,Seafood,84,60,8,Sufficient Stock,Low Risk
+93-342-8794,Bread Flour,Grains & Pulses,84,83,91,Reorder Required,Low Risk
+43-670-8544,Orange,Fruits & Vegetables,84,48,95,Reorder Required,Low Risk
+31-608-1445,Papaya,Fruits & Vegetables,84,54,28,Sufficient Stock,Low Risk
+80-658-6456,Mango,Fruits & Vegetables,84,30,9,Sufficient Stock,Low Risk
+67-130-4114,Bell Pepper,Fruits & Vegetables,84,46,26,Sufficient Stock,Low Risk
+80-698-0324,Butter Biscuit,Bakery,84,51,58,Sufficient Stock,Low Risk
+37-248-6266,Pear,Fruits & Vegetables,84,64,74,Sufficient Stock,Low Risk
+70-005-5970,Apple,Fruits & Vegetables,84,66,46,Sufficient Stock,Low Risk
+26-177-5690,Cucumber,Fruits & Vegetables,85,64,33,Sufficient Stock,Low Risk
+90-773-9557,Butter,Dairy,85,45,28,Sufficient Stock,Low Risk
+06-849-4869,Sesame Oil,Oils & Fats,85,46,15,Sufficient Stock,Low Risk
+60-343-3288,Tilapia,Seafood,85,54,92,Reorder Required,Low Risk
+51-273-4240,Multigrain Bread,Bakery,85,30,57,Sufficient Stock,Low Risk
+35-529-2933,Broccoli,Fruits & Vegetables,85,85,54,Sufficient Stock,Low Risk
+56-894-3733,Yogurt,Dairy,85,49,83,Sufficient Stock,Low Risk
+35-621-2546,Swiss Cheese,Dairy,85,68,89,Reorder Required,Low Risk
+02-085-7218,Cheddar Cheese,Dairy,85,57,28,Sufficient Stock,Low Risk
+17-395-1121,Plum,Fruits & Vegetables,85,58,16,Sufficient Stock,Low Risk
+72-970-0239,Sesame Oil,Oils & Fats,85,78,86,Reorder Required,Low Risk
+24-989-3302,Coconut,Fruits & Vegetables,85,61,90,Reorder Required,Low Risk
+72-341-1154,Heavy Cream,Dairy,85,65,66,Sufficient Stock,Low Risk
+36-531-4087,Almond Flour,Grains & Pulses,85,26,12,Sufficient Stock,Low Risk
+36-636-4873,Black Rice,Grains & Pulses,86,80,100,Reorder Required,Low Risk
+95-357-2870,Arborio Rice,Grains & Pulses,86,22,80,Sufficient Stock,Low Risk
+88-401-3700,Cauliflower,Fruits & Vegetables,86,30,66,Sufficient Stock,Low Risk
+13-798-3397,Egg (Turkey),Dairy,86,34,16,Sufficient Stock,Low Risk
+22-760-4605,Yogurt,Dairy,86,83,20,Sufficient Stock,Low Risk
+64-109-7362,Anchovies,Seafood,86,37,55,Sufficient Stock,Low Risk
+87-104-0187,Whole Wheat Flour,Grains & Pulses,86,52,100,Reorder Required,Low Risk
+72-780-6006,Sunflower Oil,Oils & Fats,87,83,24,Sufficient Stock,Low Risk
+71-436-5841,Cauliflower,Fruits & Vegetables,87,47,91,Reorder Required,Low Risk
+09-712-3630,Grapes,Fruits & Vegetables,87,22,62,Sufficient Stock,Low Risk
+15-169-8058,Bread Flour,Grains & Pulses,87,58,97,Reorder Required,Low Risk
+66-378-7532,Blueberries,Fruits & Vegetables,87,55,51,Sufficient Stock,Low Risk
+28-433-8533,Multigrain Bread,Bakery,87,73,70,Sufficient Stock,Low Risk
+31-403-6234,Tuna,Seafood,87,22,24,Sufficient Stock,Low Risk
+06-731-2162,Lemon,Fruits & Vegetables,87,61,1,Sufficient Stock,Low Risk
+67-025-1245,Cabbage,Fruits & Vegetables,88,73,46,Sufficient Stock,Low Risk
+27-635-8394,Orange,Fruits & Vegetables,88,63,37,Sufficient Stock,Low Risk
+53-680-5293,Cheddar Cheese,Dairy,88,79,74,Sufficient Stock,Low Risk
+01-439-6231,Sunflower Oil,Oils & Fats,88,25,100,Reorder Required,Low Risk
+80-334-0215,Grapes,Fruits & Vegetables,88,57,27,Sufficient Stock,Low Risk
+71-631-5875,Salmon,Seafood,88,61,83,Sufficient Stock,Low Risk
+85-237-3505,Green Tea,Beverages,88,78,50,Sufficient Stock,Low Risk
+61-796-6540,Ricotta Cheese,Dairy,88,23,4,Sufficient Stock,Low Risk
+41-237-5498,Cheese,Dairy,88,56,53,Sufficient Stock,Low Risk
+86-672-4191,Egg (Goose),Dairy,88,54,22,Sufficient Stock,Low Risk
+31-255-9616,Tuna,Seafood,88,28,71,Sufficient Stock,Low Risk
+19-112-1616,Lettuce,Fruits & Vegetables,88,25,56,Sufficient Stock,Low Risk
+73-874-7534,Pomegranate,Fruits & Vegetables,88,72,24,Sufficient Stock,Low Risk
+82-977-7752,Spinach,Fruits & Vegetables,88,58,78,Sufficient Stock,Low Risk
+06-336-5482,Sardines,Seafood,89,60,34,Sufficient Stock,Low Risk
+50-364-5828,Coconut,Fruits & Vegetables,89,38,57,Sufficient Stock,Low Risk
+10-002-6494,Mango,Fruits & Vegetables,89,46,92,Reorder Required,Low Risk
+80-072-8774,Tuna,Seafood,89,76,95,Reorder Required,Low Risk
+60-771-0879,Blueberries,Fruits & Vegetables,89,79,15,Sufficient Stock,Low Risk
+81-268-5905,Mackerel,Seafood,89,48,26,Sufficient Stock,Low Risk
+92-652-3737,Zucchini,Fruits & Vegetables,89,27,56,Sufficient Stock,Low Risk
+15-082-9124,Apricot,Fruits & Vegetables,89,49,35,Sufficient Stock,Low Risk
+56-875-3717,Brown Rice,Grains & Pulses,89,64,54,Sufficient Stock,Low Risk
+89-713-6071,Sesame Oil,Oils & Fats,89,39,66,Sufficient Stock,Low Risk
+24-986-5091,Vanilla Biscuit,Bakery,89,83,22,Sufficient Stock,Low Risk
+13-900-9016,Bell Pepper,Fruits & Vegetables,89,38,96,Reorder Required,Low Risk
+09-286-8107,Greek Yogurt,Dairy,90,70,62,Sufficient Stock,Low Risk
+44-476-0390,Lemon,Fruits & Vegetables,90,71,92,Reorder Required,Low Risk
+29-756-7042,Digestive Biscuit,Bakery,90,63,52,Sufficient Stock,Low Risk
+87-272-6544,Egg (Goose),Dairy,90,51,3,Sufficient Stock,Low Risk
+95-738-4658,Green Coffee,Beverages,90,81,68,Sufficient Stock,Low Risk
+10-137-9759,Watermelon,Fruits & Vegetables,90,82,17,Sufficient Stock,Low Risk
+45-380-4627,Cabbage,Fruits & Vegetables,90,52,1,Sufficient Stock,Low Risk
+42-907-6946,Coconut Oil,Oils & Fats,90,55,75,Sufficient Stock,Low Risk
+36-679-4670,Bell Pepper,Fruits & Vegetables,90,81,22,Sufficient Stock,Low Risk
+68-977-6854,Apricot,Fruits & Vegetables,90,76,30,Sufficient Stock,Low Risk
+02-170-5225,Raw Sugar,Grains & Pulses,90,80,75,Sufficient Stock,Low Risk
+04-637-8815,Apricot,Fruits & Vegetables,90,34,91,Reorder Required,Low Risk
+66-268-8345,Greek Yogurt,Dairy,91,56,84,Sufficient Stock,Low Risk
+41-729-5410,Sardines,Seafood,91,30,59,Sufficient Stock,Low Risk
+67-270-7464,Jasmine Rice,Grains & Pulses,91,51,73,Sufficient Stock,Low Risk
+84-075-7647,Canola Oil,Oils & Fats,91,43,82,Sufficient Stock,Low Risk
+15-240-6267,Eggplant,Fruits & Vegetables,91,42,55,Sufficient Stock,Low Risk
+40-462-2952,Trout,Seafood,91,81,68,Sufficient Stock,Low Risk
+35-836-6718,Ricotta Cheese,Dairy,91,50,14,Sufficient Stock,Low Risk
+70-145-2550,Lemon,Fruits & Vegetables,91,38,6,Sufficient Stock,Low Risk
+65-235-7676,Whole Wheat Bread,Bakery,91,74,71,Sufficient Stock,Low Risk
+86-482-6451,White Tea,Beverages,91,63,78,Sufficient Stock,Low Risk
+27-459-0724,Feta Cheese,Dairy,91,32,7,Sufficient Stock,Low Risk
+19-377-5021,Mackerel,Seafood,91,90,96,Reorder Required,Low Risk
+07-617-6934,Coconut Sugar,Grains & Pulses,91,48,39,Sufficient Stock,Low Risk
+11-325-7396,Mango,Fruits & Vegetables,92,24,46,Sufficient Stock,Low Risk
+02-920-4829,White Bread,Bakery,92,61,87,Sufficient Stock,Low Risk
+54-374-9986,Cream,Dairy,92,72,52,Sufficient Stock,Low Risk
+39-479-5147,Tuna,Seafood,92,40,68,Sufficient Stock,Low Risk
+03-149-9760,Whipped Cream,Dairy,92,43,99,Reorder Required,Low Risk
+90-492-0564,Pomegranate,Fruits & Vegetables,92,32,96,Reorder Required,Low Risk
+76-540-6407,Orange,Fruits & Vegetables,92,79,54,Sufficient Stock,Low Risk
+95-252-9619,Carrot,Fruits & Vegetables,92,30,39,Sufficient Stock,Low Risk
+34-131-8805,Yogurt,Dairy,92,50,92,Reorder Required,Low Risk
+40-793-7235,Sour Cream,Dairy,92,23,67,Sufficient Stock,Low Risk
+83-117-7658,Asparagus,Fruits & Vegetables,92,62,3,Sufficient Stock,Low Risk
+57-779-4955,Black Rice,Grains & Pulses,92,38,48,Sufficient Stock,Low Risk
+36-177-0573,Egg (Turkey),Dairy,92,78,1,Sufficient Stock,Low Risk
+96-503-7712,White Bread,Bakery,93,76,76,Sufficient Stock,Low Risk
+47-554-5780,Haddock,Seafood,93,78,62,Sufficient Stock,Low Risk
+57-861-4379,Swiss Cheese,Dairy,93,93,8,Sufficient Stock,Low Risk
+26-535-4727,Tilapia,Seafood,93,72,25,Sufficient Stock,Low Risk
+63-890-1246,Oatmeal Biscuit,Bakery,93,76,50,Sufficient Stock,Low Risk
+70-206-4860,Egg (Quail),Dairy,93,30,68,Sufficient Stock,Low Risk
+24-579-6500,Anchovies,Seafood,93,81,51,Sufficient Stock,Low Risk
+10-768-2443,Multigrain Bread,Bakery,93,56,55,Sufficient Stock,Low Risk
+39-449-0772,Feta Cheese,Dairy,94,20,13,Sufficient Stock,Low Risk
+01-903-5373,Strawberries,Fruits & Vegetables,94,40,77,Sufficient Stock,Low Risk
+74-562-7431,Vanilla Biscuit,Bakery,94,74,34,Sufficient Stock,Low Risk
+36-899-5324,Orange,Fruits & Vegetables,94,57,58,Sufficient Stock,Low Risk
+10-555-5971,Sourdough Bread,Bakery,94,47,56,Sufficient Stock,Low Risk
+44-546-5713,Peach,Fruits & Vegetables,94,24,69,Sufficient Stock,Low Risk
+73-997-6251,Bell Pepper,Fruits & Vegetables,94,44,18,Sufficient Stock,Low Risk
+11-073-0189,Plum,Fruits & Vegetables,95,69,50,Sufficient Stock,Low Risk
+35-835-5591,Tilapia,Seafood,95,61,63,Sufficient Stock,Low Risk
+41-316-8427,Arborio Rice,Grains & Pulses,95,60,93,Sufficient Stock,Low Risk
+28-008-2951,Broccoli,Fruits & Vegetables,95,52,29,Sufficient Stock,Low Risk
+48-957-8596,Banana,Fruits & Vegetables,95,87,25,Sufficient Stock,Low Risk
+02-888-9412,Cauliflower,Fruits & Vegetables,95,92,66,Sufficient Stock,Low Risk
+17-236-0566,Sweet Potato,Fruits & Vegetables,95,61,87,Sufficient Stock,Low Risk
+07-337-9889,Cauliflower,Fruits & Vegetables,95,49,6,Sufficient Stock,Low Risk
+71-516-1996,Corn Oil,Oils & Fats,96,67,52,Sufficient Stock,Low Risk
+07-970-9352,Bell Pepper,Fruits & Vegetables,96,74,33,Sufficient Stock,Low Risk
+98-064-4465,Mozzarella Cheese,Dairy,96,72,38,Sufficient Stock,Low Risk
+60-632-8752,Chocolate Biscuit,Bakery,96,45,16,Sufficient Stock,Low Risk
+51-069-0489,Bread Flour,Grains & Pulses,96,81,83,Sufficient Stock,Low Risk
+11-815-7923,Parmesan Cheese,Dairy,96,78,9,Sufficient Stock,Low Risk
+10-854-5467,Canola Oil,Oils & Fats,96,61,51,Sufficient Stock,Low Risk
+80-375-9075,Swiss Cheese,Dairy,96,71,34,Sufficient Stock,Low Risk
+31-157-1822,Ricotta Cheese,Dairy,96,94,80,Sufficient Stock,Low Risk
+02-508-3777,Egg (Quail),Dairy,97,97,88,Sufficient Stock,Low Risk
+18-278-2383,Gouda Cheese,Dairy,97,43,77,Sufficient Stock,Low Risk
+56-191-6497,Bread Flour,Grains & Pulses,97,35,41,Sufficient Stock,Low Risk
+16-354-8122,Digestive Biscuit,Bakery,97,57,99,Reorder Required,Low Risk
+76-954-1442,Arabica Coffee,Beverages,97,74,77,Sufficient Stock,Low Risk
+59-075-2457,Egg (Goose),Dairy,97,33,26,Sufficient Stock,Low Risk
+95-349-0828,Feta Cheese,Dairy,97,95,57,Sufficient Stock,Low Risk
+85-207-4164,Eggplant,Fruits & Vegetables,97,29,20,Sufficient Stock,Low Risk
+60-747-8704,Papaya,Fruits & Vegetables,97,53,97,Reorder Required,Low Risk
+77-827-0820,Sesame Oil,Oils & Fats,97,51,20,Sufficient Stock,Low Risk
+50-679-2072,Canola Oil,Oils & Fats,97,82,32,Sufficient Stock,Low Risk
+28-968-4195,Eggplant,Fruits & Vegetables,97,22,52,Sufficient Stock,Low Risk
+46-753-8430,Feta Cheese,Dairy,98,92,77,Sufficient Stock,Low Risk
+95-354-8583,Long Grain Rice,Grains & Pulses,98,30,40,Sufficient Stock,Low Risk
+11-155-7826,Arabica Coffee,Beverages,98,39,83,Sufficient Stock,Low Risk
+88-586-8797,Grapes,Fruits & Vegetables,98,59,62,Sufficient Stock,Low Risk
+46-632-8420,Whipped Cream,Dairy,98,89,24,Sufficient Stock,Low Risk
+03-061-1344,Trout,Seafood,98,62,65,Sufficient Stock,Low Risk
+45-634-0679,Haddock,Seafood,98,53,100,Reorder Required,Low Risk
+64-119-7804,Bell Pepper,Fruits & Vegetables,98,86,43,Sufficient Stock,Low Risk
+60-911-3745,Black Rice,Grains & Pulses,98,70,41,Sufficient Stock,Low Risk
+61-293-6327,Salmon,Seafood,98,21,67,Sufficient Stock,Low Risk
+46-911-1159,Onion,Fruits & Vegetables,98,46,40,Sufficient Stock,Low Risk
+80-441-7249,Wild Rice,Grains & Pulses,98,31,30,Sufficient Stock,Low Risk
+15-846-7959,Zucchini,Fruits & Vegetables,98,48,14,Sufficient Stock,Low Risk
+44-128-2185,Jasmine Rice,Grains & Pulses,98,51,20,Sufficient Stock,Low Risk
+20-225-3930,White Tea,Beverages,99,93,87,Sufficient Stock,Low Risk
+11-032-9778,Peas,Fruits & Vegetables,99,50,1,Sufficient Stock,Low Risk
+88-602-8210,Avocado Oil,Oils & Fats,99,94,96,Sufficient Stock,Low Risk
+02-655-3240,Rice Flour,Grains & Pulses,99,36,44,Sufficient Stock,Low Risk
+49-861-7823,Coconut,Fruits & Vegetables,99,41,8,Sufficient Stock,Low Risk
+74-548-9313,Mango,Fruits & Vegetables,99,52,59,Sufficient Stock,Low Risk
+01-050-2246,Grapes,Fruits & Vegetables,99,59,68,Sufficient Stock,Low Risk
+26-629-5920,Rye Bread,Bakery,99,49,6,Sufficient Stock,Low Risk
+47-581-0363,Parmesan Cheese,Dairy,99,69,10,Sufficient Stock,Low Risk
+69-743-0161,Bread Flour,Grains & Pulses,99,80,54,Sufficient Stock,Low Risk
+54-758-4622,Chocolate Biscuit,Bakery,99,65,3,Sufficient Stock,Low Risk
+67-382-4435,Green Beans,Fruits & Vegetables,99,46,37,Sufficient Stock,Low Risk
+65-718-0492,Olive Oil,Oils & Fats,100,84,92,Sufficient Stock,Low Risk
+57-613-5779,Gouda Cheese,Dairy,100,20,21,Sufficient Stock,Low Risk
+42-141-5718,Cheese,Dairy,100,88,31,Sufficient Stock,Low Risk
+13-980-8804,Sweet Potato,Fruits & Vegetables,100,98,3,Sufficient Stock,Low Risk
+01-703-8441,Raw Sugar,Grains & Pulses,100,76,10,Sufficient Stock,Low Risk
+27-681-5588,Anchovies,Seafood,100,54,99,Sufficient Stock,Low Risk
+88-977-0175,Chocolate Biscuit,Bakery,100,47,1,Sufficient Stock,Low Risk
+27-216-9671,Sesame Oil,Oils & Fats,100,77,86,Sufficient Stock,Low Risk
+08-637-9335,Lettuce,Fruits & Vegetables,100,26,7,Sufficient Stock,Low Risk
+49-199-6836,Tomato,Fruits & Vegetables,100,84,64,Sufficient Stock,Low Risk
+08-196-2703,Peas,Fruits & Vegetables,100,86,52,Sufficient Stock,Low Risk
+54-830-6971,Tilapia,Seafood,100,85,61,Sufficient Stock,Low Risk

@@ -1,0 +1,7 @@
+Business Area,Recommendation
+Inventory Management,Regularly monitor stock quantities.
+Stockout Risk,Investigate products flagged as high risk.
+Category Management,Review categories with higher preliminary risk.
+Reorder Planning,Prioritize products at or below reorder level.
+Product Monitoring,Monitor high-sales and low-stock products.
+Data Quality,Validate date fields and dataset assumptions.
